@@ -1,5 +1,5 @@
 # Awesome-Video-Frame-Interpolation
-# Advances in Video Frame Interpolation: A Comprehensive Survey
+### Advances in Video Frame Interpolation: A Comprehensive Survey
 
 <p align="center">
   <img src="./media/title.png" alt="Survey Title Image" width="800"/>
