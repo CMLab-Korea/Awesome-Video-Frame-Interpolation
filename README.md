@@ -82,7 +82,7 @@ You can find the preprint of our survey here:
 
 We categorize recent VFI papers by methodology:
 <details>
-<summary><strong>feature extraction network</strong></summary>
+<summary><strong>Feature Extraction Network</strong></summary>
 
 <table>
 <thead>
@@ -164,7 +164,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>challenges</strong></summary>
+<summary><strong>Challenges</strong></summary>
 
 <table>
 <thead>
@@ -183,7 +183,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Motion-compensated</strong></summary>
+<summary><strong>Motion-Compensated</strong></summary>
 
 <table>
 <thead>
@@ -212,7 +212,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>GAN-based</strong></summary>
+<summary><strong>GAN-Based</strong></summary>
 
 <table>
 <thead>
@@ -243,7 +243,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Diffusion-based</strong></summary>
+<summary><strong>Diffusion-Based</strong></summary>
 
 <table>
 <thead>
@@ -275,7 +275,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Flow-based</strong></summary>
+<summary><strong>Flow-Based</strong></summary>
 
 <table>
 <thead>
@@ -324,7 +324,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Flow network</strong></summary>
+<summary><strong>Flow Network</strong></summary>
 
 <table>
 <thead>
