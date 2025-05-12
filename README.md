@@ -924,10 +924,10 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">In-2-4D: Inbetweening from Two Single-View Images to 4D Generation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="#">Temporal interpolation is all you need for dynamic neural radiance fields</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Neuralpci: Spatio-temporal neural field for 3d point cloud multi-frame non-linear interpolation</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">PAPR in Motion: Seamless Point-level 3D Scene Interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2504.08366">In-2-4D: Inbetweening from Two Single-View Images to 4D Generation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Temporal_Interpolation_Is_All_You_Need_for_Dynamic_Neural_Radiance_CVPR_2023_paper.pdf">Temporal interpolation is all you need for dynamic neural radiance fields</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_NeuralPCI_Spatio-Temporal_Neural_Field_for_3D_Point_Cloud_Multi-Frame_Non-Linear_CVPR_2023_paper.pdf">Neuralpci: Spatio-temporal neural field for 3d point cloud multi-frame non-linear interpolation</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_PAPR_in_Motion_Seamless_Point-level_3D_Scene_Interpolation_CVPR_2024_paper.pdf">PAPR in Motion: Seamless Point-level 3D Scene Interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 </tbody>
 </table>
 
