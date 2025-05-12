@@ -16,7 +16,7 @@
 This repository provides a curated collection of papers, benchmarks, and resources from our survey:  
 **"Advances in Video Frame Interpolation: A Comprehensive Survey"** (2025, submitted to [Journal/Conference]).
 
-> 📝 **Authors**: Dahyeon Kye\*, Changhyun Roh, Hyeonjun Sim, Sukhun Ko, Chanho Eom, Jihyong Oh\†
+> 📝 **Authors**: Dahyeon Kye\*, Changhyun Roh, Hyeonjun Sim, Sukhun Ko, Chanho Eom, Jihyong Oh†
 
 > 🎓 **Institution**: Chung-Ang University, Department of Imaging Science, GSAIM  
 > 🏢 **Affiliation**: Qualcomm 
@@ -25,7 +25,14 @@ This repository provides a curated collection of papers, benchmarks, and resourc
 
 ## 📘 Abstract
 
-Video Frame Interpolation (VFI) is a fundamental task in video processing that aims to synthesize intermediate frames between existing ones, enabling smooth slow-motion effects, frame rate conversion, and temporal video enhancement. This survey provides a comprehensive review of the latest advancements in VFI, covering traditional motion estimation techniques, deep learning-based approaches, and emerging paradigms such as transformer-based and diffusion-based models. We present a taxonomy of VFI methods, analyze their key components, compare quantitative benchmarks, and discuss current challenges and promising future directions.
+Video Frame Interpolation (VFI) aims to synthesize intermediate frames between given input frames and has advanced significantly from traditional motion-compensation to deep learning-based methods.
+We comprehensively categorize VFI approaches—kernel-based, flow-based, attention-based, Transformer-based, Mamba-based, and diffusion-based—highlighting their motion representations and core architectures.
+We further formalize training objectives into Center-Time Frame Interpolation (CTFI) and Arbitrary-Time Frame Interpolation (ATFI), offering a unified perspective across learning paradigms.
+This survey identifies key challenges such as large motion, occlusion, lighting changes, and non-linear motion, and reviews how each method addresses them.
+We also examine practical components like datasets, loss functions, and evaluation metrics used across the literature.
+Additionally, we explore extended applications including event-guided VFI, joint VFI with super-resolution or deblurring, and domain-specific uses like animation or medical imaging.
+Our study offers a consolidated reference point and future directions for researchers in the field of video frame interpolation.
+
 
 ---
 
