@@ -705,7 +705,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Game?</strong></summary>
+<summary><strong>Game</strong></summary>
 
 <table>
 <thead>
