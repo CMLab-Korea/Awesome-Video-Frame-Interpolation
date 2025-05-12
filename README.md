@@ -355,7 +355,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Kernel-based</strong></summary>
+<summary><strong>Kernel-Based</strong></summary>
 
 <table>
 <thead>
@@ -391,7 +391,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Kernel-Flow combined</strong></summary>
+<summary><strong>Kernel-Flow Combined</strong></summary>
 
 <table>
 <thead>
@@ -416,7 +416,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Phase-based</strong></summary>
+<summary><strong>Phase-Based</strong></summary>
 
 <table>
 <thead>
@@ -441,7 +441,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Transformer-based</strong></summary>
+<summary><strong>Transformer-Based</strong></summary>
 
 <table>
 <thead>
@@ -499,7 +499,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Deep learning-based vs. Generative</strong></summary>
+<summary><strong>Deep learning-Based vs. Generative</strong></summary>
 
 <table>
 <thead>
@@ -542,7 +542,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>DM-based</strong></summary>
+<summary><strong>DM-Based</strong></summary>
 
 <table>
 <thead>
@@ -616,7 +616,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>Event-based</strong></summary>
+<summary><strong>Event-Based</strong></summary>
 
 <table>
 <thead>
@@ -656,7 +656,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>event + sr</strong></summary>
+<summary><strong>Event + SR</strong></summary>
 
 <table>
 <thead>
@@ -698,7 +698,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>cartoon interpolation</strong></summary>
+<summary><strong>Cartoon Interpolation</strong></summary>
 
 <table>
 <thead>
@@ -728,7 +728,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>game?</strong></summary>
+<summary><strong>Game?</strong></summary>
 
 <table>
 <thead>
@@ -883,7 +883,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>future research direction</strong></summary>
+<summary><strong>Future Research Direction</strong></summary>
 
 <table>
 <thead>
