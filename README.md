@@ -906,7 +906,6 @@ We categorize recent VFI papers by methodology:
 </thead>
 <tbody>
 <tr><td align="left"><a href="#">Edvr: Video restoration with enhanced deformable convolutional networks</a></td><td align="center">CVPR workshops</td><td align="center">2019</td></tr>
-<tr><td align="left"><a href="#">Edvr: Video restoration with enhanced deformable convolutional networks</a></td><td align="center">CVPR workshops</td><td align="center">2019</td></tr>
 <tr><td align="left"><a href="#">AverNet: All-in-one video restoration for time-varying unknown degradations</a></td><td align="center">NeurIPS</td><td align="center">2024</td></tr>
 </tbody>
 </table>
