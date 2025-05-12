@@ -94,8 +94,8 @@ We categorize recent VFI papers by methodology:
 </thead>
 <tbody>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1409.1556">Very deep convolutional networks for large-scale image recognition</a></td><td align="center">arXiv</td><td align="center">2014</td></tr>
-<tr><td align="left"><a href="#">U-net: Convolutional networks for biomedical image segmentation</a></td><td align="center">Medical image computing and computer-assisted intervention--MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="#">3D U-Net: learning dense volumetric segmentation from sparse annotation</a></td><td align="center">Medical Image Computing and Computer-Assisted Intervention--MICCAI 2016: 19th International Conference, Athens, Greece, October 17-21, 2016, Proceedings, Part II 19</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28">U-net: Convolutional networks for biomedical image segmentation</a></td><td align="center">Medical image computing and computer-assisted intervention--MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18</td><td align="center">2015</td></tr>
+<tr><td align="left"><a href="https://lmb.informatik.uni-freiburg.de/Publications/2016/CABR16/cicek16miccai.pdf">3D U-Net: learning dense volumetric segmentation from sparse annotation</a></td><td align="center">Medical Image Computing and Computer-Assisted Intervention--MICCAI 2016: 19th International Conference, Athens, Greece, October 17-21, 2016, Proceedings, Part II 19</td><td align="center">2016</td></tr>
 </tbody>
 </table>
 
@@ -113,7 +113,7 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Efficient feature extraction for high-resolution video frame interpolation</a></td><td align="center">arXiv</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2211.14005">Efficient feature extraction for high-resolution video frame interpolation</a></td><td align="center">arXiv</td><td align="center">2022</td></tr>
 </tbody>
 </table>
 
@@ -131,9 +131,9 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Prediction error as a quality metric for motion and stereo</a></td><td align="center">Proceedings of the Seventh IEEE International Conference on Computer Vision</td><td align="center">1999</td></tr>
-<tr><td align="left"><a href="#">View synthesis by appearance flow</a></td><td align="center">ECCV, Amsterdam, The Netherlands, October 11--14, 2016, Proceedings, Part IV 14</td><td align="center">2016</td></tr>
-<tr><td align="left"><a href="#">Deepstereo: Learning to predict new views from the world's imagery</a></td><td align="center">CVPR</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/790301/">Prediction error as a quality metric for motion and stereo</a></td><td align="center">Proceedings of the Seventh IEEE International Conference on Computer Vision</td><td align="center">1999</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1605.03557">View synthesis by appearance flow</a></td><td align="center">ECCV, Amsterdam, The Netherlands, October 11--14, 2016, Proceedings, Part IV 14</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Flynn_DeepStereo_Learning_to_CVPR_2016_paper.pdf">Deepstereo: Learning to predict new views from the world's imagery</a></td><td align="center">CVPR</td><td align="center">2016</td></tr>
 <tr><td align="left"><a href="#">Video compression through image interpolation</a></td><td align="center">ECCV</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="#">Super slomo: High quality estimation of multiple intermediate frames for video interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="#">Video enhancement with task-oriented flow</a></td><td align="center">International Journal of Computer Vision</td><td align="center">2019</td></tr>
