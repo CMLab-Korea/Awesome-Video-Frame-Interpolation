@@ -2,14 +2,15 @@
 ### Advances in Video Frame Interpolation: A Comprehensive Survey
 
 <p align="center">
-  <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/image%20(19).png?raw=true" alt="image" style="width:1000px;">
+  <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/image%20(19).png?raw=true" alt="image" style="width:1000px; height:auto; max-height:750px;">
 </p>
+
 [![awesome](https://img.shields.io/badge/awesome-yes-critical?style=flat&logo=awesome-lists&labelColor=purple)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-org.your-repo)](https://github.com/your-org/your-repo)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CMLab-Korea.Awesome-Video-Frame-Interpolation)](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)
 [![arXiv](https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg)](https://arxiv.org/abs/your-paper-id)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Stars](https://img.shields.io/github/stars/your-org/your-repo.svg?style=social&label=Star)](https://github.com/your-org/your-repo)
+[![Stars](https://img.shields.io/github/stars/CMLab-Korea/Awesome-Video-Frame-Interpolation.svg?style=social&label=Star)](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)
 
 
 This repository provides a curated collection of papers, benchmarks, and resources from our survey:  
