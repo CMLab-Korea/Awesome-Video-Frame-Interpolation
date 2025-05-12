@@ -31,14 +31,36 @@ Video Frame Interpolation (VFI) is a fundamental task in video processing that a
 
 ## 📚 Contents
 
+- [News](#news)
+- [BibTeX](#bibtex)
 - [Survey Paper](#survey-paper)
 - [Paper List](#paper-list)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Metrics](#metrics)
-- [News](#news)
-- [BibTeX](#bibtex)
+
 
 ---
+
+## 📣 News
+
+- 📌 2025-05-01: Paper submitted to TPAMI!
+- 🧪 2025-04-20: Benchmarked latest diffusion-based VFI models.
+- 🚀 2025-03-15: Repository initialized.
+
+---
+
+## 🔖 BibTeX
+
+If you find this survey helpful, please consider citing us:
+
+```bibtex
+@article{your2025vfi,
+  title={Advances in Video Frame Interpolation: A Comprehensive Survey},
+  author={Your Name and Collaborator 1 and Collaborator 2},
+  journal={arXiv preprint arXiv:your-paper-id},
+  year={2025}
+}
+
 
 ## 🔍 Survey Paper
 
@@ -625,23 +647,5 @@ And evaluation metrics:
 
 ---
 
-## 📣 News
 
-- 📌 2025-05-01: Paper submitted to TPAMI!
-- 🧪 2025-04-20: Benchmarked latest diffusion-based VFI models.
-- 🚀 2025-03-15: Repository initialized.
-
----
-
-## 🔖 BibTeX
-
-If you find this survey helpful, please consider citing us:
-
-```bibtex
-@article{your2025vfi,
-  title={Advances in Video Frame Interpolation: A Comprehensive Survey},
-  author={Your Name and Collaborator 1 and Collaborator 2},
-  journal={arXiv preprint arXiv:your-paper-id},
-  year={2025}
-}
 
