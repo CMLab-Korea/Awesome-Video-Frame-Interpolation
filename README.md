@@ -935,30 +935,27 @@ We categorize recent VFI papers by methodology:
 
 
 
-### 📊 <a name="benchmarks-datasets"></a>Benchmarks & Datasets
+## 📊 Benchmarks & Datasets
 
-Includes commonly used datasets:
+We include commonly used datasets for evaluating VFI performance:
 
-- Vimeo90K  
-- UCF101  
-- DAVIS  
-- SNU-FILM  
-- Adobe240/60fps  
-
-And evaluation metrics:
-
-- PSNR / SSIM  
-- LPIPS / tOF  
-- Interpolation Error (IE)  
-
+- **Vimeo90K**: A high-quality dataset containing triplets of video frames, primarily used for training and evaluating interpolation methods.
+- **UCF101**: Originally a human action recognition dataset, widely adopted for VFI evaluation due to diverse motion content.
+- **DAVIS**: Designed for video object segmentation, this dataset provides high-resolution videos with complex motion and occlusion—making it suitable for testing robustness.
+- **SNU-FILM**: A dataset offering high frame-rate videos (up to 960fps), useful for analyzing subtle motion and evaluating temporal consistency.
+- **Adobe240/60fps**: Provides real-world 240fps videos and their downsampled 60fps versions for training/testing frame interpolation models under natural conditions.
 
 ---
 
+## 📈 Metrics
 
+The following metrics are commonly used to evaluate video frame interpolation quality:
 
+- **PSNR (Peak Signal-to-Noise Ratio)**: Measures the ratio between the maximum possible power of a signal and the power of corrupting noise. Higher PSNR indicates better fidelity.
+- **SSIM (Structural Similarity Index)**: Captures perceptual similarity considering luminance, contrast, and structure. Closer to 1 means better structural similarity.
+- **LPIPS (Learned Perceptual Image Patch Similarity)**: A deep-learning-based perceptual metric using pretrained neural networks (e.g., VGG). Lower LPIPS indicates higher perceptual similarity.
+- **tOF (temporal Optical Flow)**: Measures the error in motion estimation between interpolated and ground-truth frames based on flow consistency.
+- **IE (Interpolation Error)**: Calculates the pixel-wise difference between the interpolated result and the true intermediate frame, typically used in datasets with high frame-rate videos like SNU-FILM.
 
-
-### 📈 <a name="metrics"></a>Metrics
-
-(Provide detailed descriptions or references of metrics like PSNR, SSIM, LPIPS, tOF, and Interpolation Error here if needed.)
+Each metric targets different aspects—pixel fidelity, perceptual quality, and motion consistency—and should be considered jointly for comprehensive evaluation.
 
