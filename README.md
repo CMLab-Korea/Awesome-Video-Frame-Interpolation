@@ -16,18 +16,10 @@
 This repository provides a curated collection of papers, benchmarks, and resources from our survey:  
 **"Advances in Video Frame Interpolation: A Comprehensive Survey"** (2025, submitted to [Journal/Conference]).
 
-> 📝 **Authors**:  
-> Dahyeon Kye\* (rpekgus@cau.ac.kr)  
-> Changhyun Roh (changhyunroh@cau.ac.kr)  
-> Hyeonjun Sim (hyeonjun@qti.qualcomm.com)  
-> Sukhun Ko (looloo330@cau.ac.kr)  
-> Chanho Eom (cheom@cau.ac.kr)  
-> Jihyong Oh\* (jihyongoh@cau.ac.kr)  
+> 📝 **Authors**: Dahyeon Kye\*, Changhyun Roh, Hyeonjun Sim, Sukhun Ko, Chanho Eom, Jihyong Oh\†
 
-> 🎓 **Institution**:  
-> Department of Imaging Science, Graduate School of Advanced Imaging Science, Chung-Ang University  
-> 🏢 Qualcomm USA 
-
+> 🎓 **Institution**: Chung-Ang University, Department of Imaging Science, GSAIM  
+> 🏢 **Affiliation**: Qualcomm 
 
 ---
 
