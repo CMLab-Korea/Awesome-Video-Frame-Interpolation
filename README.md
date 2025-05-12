@@ -64,7 +64,7 @@ If you find this survey helpful, please consider citing us:
 
 ```bibtex
 @article{your2025vfi,
-  title={Advances in Video Frame Interpolation: A Comprehensive Survey},
+  title={🂡 AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
   author={Your Name and Collaborator 1 and Collaborator 2},
   journal={arXiv preprint arXiv:your-paper-id},
   year={2025}
