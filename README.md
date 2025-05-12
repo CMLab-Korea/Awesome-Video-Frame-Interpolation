@@ -40,12 +40,13 @@ Our study offers a consolidated reference point and future directions for resear
 
 ## 📚 Contents
 
-- [News](#news)
-- [BibTeX](#bibtex)
-- [Survey Paper](#survey-paper)
-- [Paper List](#paper-list)
-- [Benchmarks & Datasets](#benchmarks--datasets)
-- [Metrics](#metrics)
+- [📣 News](#-news)
+- [🔖 BibTeX](#-bibtex)
+- [🔍 Survey Paper](#-survey-paper)
+- [📄 Paper List](#-paper-list)
+- [📊 Benchmarks & Datasets](#-benchmarks-datasets)
+- [📈 Metrics](#-metrics)
+
 
 
 ---
