@@ -392,13 +392,13 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Context-aware synthesis for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="#">Memc-net: Motion estimation and motion compensation driven neural network for video interpolation and enhancement</a></td><td align="center">TPAMI</td><td align="center">2019</td></tr>
-<tr><td align="left"><a href="#">Bmbc: Bilateral motion estimation with bilateral cost volume for video interpolation</a></td><td align="center">ECCV, Glasgow, UK, August 23--28, 2020, Proceedings, Part XIV 16</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="#">Adacof: Adaptive collaboration of flows for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="#">Featureflow: Robust video interpolation via structure-to-texture generation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="#">Revisiting adaptive convolutions for video frame interpolation</a></td><td align="center">Proceedings of the IEEE/CVF winter conference on applications of computer vision</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="#">LADDER: An Efficient Framework for Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0130.pdf">Context-aware synthesis for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf/3ae72db22e8443112a8e7e61a943c8044053e135.pdf">Memc-net: Motion estimation and motion compensation driven neural network for video interpolation and enhancement</a></td><td align="center">TPAMI</td><td align="center">2019</td></tr>
+<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590103.pdf">Bmbc: Bilateral motion estimation with bilateral cost volume for video interpolation</a></td><td align="center">ECCV, Glasgow, UK, August 23--28, 2020, Proceedings, Part XIV 16</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_AdaCoF_Adaptive_Collaboration_of_Flows_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf">Adacof: Adaptive collaboration of flows for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf">Featureflow: Robust video interpolation via structure-to-texture generation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2021/papers/Niklaus_Revisiting_Adaptive_Convolutions_for_Video_Frame_Interpolation_WACV_2021_paper.pdf">Revisiting adaptive convolutions for video frame interpolation</a></td><td align="center">Proceedings of the IEEE/CVF winter conference on applications of computer vision</td><td align="center">2021</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2404.11108">LADDER: An Efficient Framework for Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 </tbody>
 </table>
 
@@ -416,13 +416,13 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Shiftable multiscale transforms</a></td><td align="center">IEEE on Information Theory</td><td align="center">1992</td></tr>
-<tr><td align="left"><a href="#">The steerable pyramid: A flexible architecture for multi-scale derivative computation</a></td><td align="center">Proceedings., international conference on image processing</td><td align="center">1995</td></tr>
-<tr><td align="left"><a href="#">A parametric texture model based on joint statistics of complex wavelet coefficients</a></td><td align="center">International journal of computer vision</td><td align="center">2000</td></tr>
-<tr><td align="left"><a href="#">Phase-based frame interpolation for video</a></td><td align="center">CVPR</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="#">Phasenet for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="#">Phase-based video motion processing</a></td><td align="center">TOG (ToG)</td><td align="center">2013</td></tr>
-<tr><td align="left"><a href="#">Joint view expansion and filtering for automultiscopic 3D displays</a></td><td align="center">TOG (TOG)</td><td align="center">2013</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=119725">Shiftable multiscale transforms</a></td><td align="center">IEEE on Information Theory</td><td align="center">1992</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=537667">The steerable pyramid: A flexible architecture for multi-scale derivative computation</a></td><td align="center">Proceedings., international conference on image processing</td><td align="center">1995</td></tr>
+<tr><td align="left"><a href="https://link.springer.com/content/pdf/10.1023/a:1026553619983.pdf">A parametric texture model based on joint statistics of complex wavelet coefficients</a></td><td align="center">International journal of computer vision</td><td align="center">2000</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2015/papers/Meyer_Phase-Based_Frame_Interpolation_2015_CVPR_paper.pdf">Phase-based frame interpolation for video</a></td><td align="center">CVPR</td><td align="center">2015</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Meyer_PhaseNet_for_Video_CVPR_2018_paper.pdf">Phasenet for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
+<tr><td align="left"><a href="https://people.csail.mit.edu/billf/publications/Phase-Based_Video.pdf">Phase-based video motion processing</a></td><td align="center">TOG (ToG)</td><td align="center">2013</td></tr>
+<tr><td align="left"><a href="https://people.csail.mit.edu/pdidyk/projects/MultiviewConversion/MultiviewConversion.pdf">Joint view expansion and filtering for automultiscopic 3D displays</a></td><td align="center">TOG (TOG)</td><td align="center">2013</td></tr>
 </tbody>
 </table>
 
@@ -440,15 +440,15 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Learning phrase representations using RNN encoder-decoder for statistical machine translation</a></td><td align="center">arXiv</td><td align="center">2014</td></tr>
-<tr><td align="left"><a href="#">Attention is all you need</a></td><td align="center">NeurIPS</td><td align="center">2017</td></tr>
-<tr><td align="left"><a href="#">Swin transformer: Hierarchical vision transformer using shifted windows</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="#">Video frame interpolation with transformer</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="#">Video frame interpolation transformer</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="#">L2BEC2: Local lightweight bidirectional encoding and channel attention cascade for video frame interpolation</a></td><td align="center">ACM Transactions on Multimedia Computing, Communications and Applications</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">TTVFI: Learning trajectory-aware transformer for video frame interpolation</a></td><td align="center">IEEE TIP</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Sparse global matching for video frame interpolation with large motion</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">Restormer: Efficient transformer for high-resolution image restoration</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1406.1078">Learning phrase representations using RNN encoder-decoder for statistical machine translation</a></td><td align="center">arXiv</td><td align="center">2014</td></tr>
+<tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">Attention is all you need</a></td><td align="center">NeurIPS</td><td align="center">2017</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf">Swin transformer: Hierarchical vision transformer using shifted windows</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Video_Frame_Interpolation_With_Transformer_CVPR_2022_paper.pdf">Video frame interpolation with transformer</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Video_Frame_Interpolation_Transformer_CVPR_2022_paper.pdf">Video frame interpolation transformer</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3547660">L2BEC2: Local lightweight bidirectional encoding and channel attention cascade for video frame interpolation</a></td><td align="center">ACM Transactions on Multimedia Computing, Communications and Applications</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2207.09048">TTVFI: Learning trajectory-aware transformer for video frame interpolation</a></td><td align="center">IEEE TIP</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Sparse_Global_Matching_for_Video_Frame_Interpolation_with_Large_Motion_CVPR_2024_paper.pdf">Sparse global matching for video frame interpolation with large motion</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf">Restormer: Efficient transformer for high-resolution image restoration</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
 </tbody>
 </table>
 
@@ -466,19 +466,19 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Unitary evolution recurrent neural networks</a></td><td align="center">ICML</td><td align="center">2016</td></tr>
-<tr><td align="left"><a href="#">Efficiently modeling long sequences with structured state spaces</a></td><td align="center">arXiv</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="#">Mamba: Linear-time sequence modeling with selective state spaces</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Vfimamba: Video frame interpolation with state space models</a></td><td align="center">NeurIPS</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">Mambair: A simple baseline for image restoration with state-space model</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">MambaIRv2: Attentive State Space Restoration</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">Learning enriched features via selective state spaces model for efficient image deblurring</a></td><td align="center">ACM MM</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">Efficient visual state space model for image deblurring</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">MaIR: A Locality-and Continuity-Preserving Mamba for Image Restoration</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">QMambaBSR: Burst Image Super-Resolution with Query State Space Model</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="#">First-order State Space Model for Lightweight Image Super-resolution</a></td><td align="center">ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1511.06464">Unitary evolution recurrent neural networks</a></td><td align="center">ICML</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=uYLFoz1vlAC">Efficiently modeling long sequences with structured state spaces</a></td><td align="center">arXiv</td><td align="center">2021</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=tEYskw1VY2">Mamba: Linear-time sequence modeling with selective state spaces</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/c1e9db5e1b04322963af91ac0c943568-Paper-Conference.pdf">Vfimamba: Video frame interpolation with state space models</a></td><td align="center">NeurIPS</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02740.pdf">Mambair: A simple baseline for image restoration with state-space model</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2411.15269">MambaIRv2: Attentive State Space Restoration</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2405.09873">IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf/edef71b7f4e8b881c4803643a7655e9bd3b3fda3.pdf">Learning enriched features via selective state spaces model for efficient image deblurring</a></td><td align="center">ACM MM</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2405.14343">Efficient visual state space model for image deblurring</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2412.20066">MaIR: A Locality-and Continuity-Preserving Mamba for Image Restoration</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2408.08665">QMambaBSR: Burst Image Super-Resolution with Query State Space Model</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2503.07046">MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887656">First-order State Space Model for Lightweight Image Super-resolution</a></td><td align="center">ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</td><td align="center">2025</td></tr>
 </tbody>
 </table>
 
@@ -496,10 +496,10 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Very deep convolutional neural network based image classification using small training sample size</a></td><td align="center">2015 3rd IAPR Asian conference on pattern recognition (ACPR)</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="#">Visual quality assessment for interpolated slow-motion videos based on a novel database</a></td><td align="center">2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="#">A subjective quality study for video frame interpolation</a></td><td align="center">2022 IEEE International Conference on Image Processing (ICIP)</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="#">Cascaded diffusion models for high fidelity image generation</a></td><td align="center">JMLR</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7486599">Very deep convolutional neural network based image classification using small training sample size</a></td><td align="center">2015 3rd IAPR Asian conference on pattern recognition (ACPR)</td><td align="center">2015</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123096">Visual quality assessment for interpolated slow-motion videos based on a novel database</a></td><td align="center">2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2202.07727">A subjective quality study for video frame interpolation</a></td><td align="center">2022 IEEE International Conference on Image Processing (ICIP)</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2106.15282">Cascaded diffusion models for high fidelity image generation</a></td><td align="center">JMLR</td><td align="center">2022</td></tr>
 </tbody>
 </table>
 
