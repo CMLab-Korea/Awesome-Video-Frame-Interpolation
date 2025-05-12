@@ -44,9 +44,8 @@ Our study offers a consolidated reference point and future directions for resear
 - [🔖 BibTeX](#-bibtex)
 - [🔍 Survey Paper](#-survey-paper)
 - [📄 Paper List](#-paper-list)
-- [📊 Benchmarks & Datasets](#-benchmarks-datasets)
-- [📈 Metrics](#-metrics)
-
+- [📊 Benchmarks & Datasets](#benchmarks-datasets)
+- [📈 Metrics](#metrics)
 
 
 ---
@@ -936,23 +935,31 @@ We categorize recent VFI papers by methodology:
 </details>
 
 
-## 📊 Benchmarks & Datasets
+
+### 📊 <a name="benchmarks-datasets"></a>Benchmarks & Datasets
 
 Includes commonly used datasets:
 
-- Vimeo90K
-- UCF101
-- DAVIS
-- SNU-FILM
-- Adobe240/60fps
+- Vimeo90K  
+- UCF101  
+- DAVIS  
+- SNU-FILM  
+- Adobe240/60fps  
 
 And evaluation metrics:
 
-- PSNR / SSIM
-- LPIPS / tOF
-- Interpolation Error (IE)
+- PSNR / SSIM  
+- LPIPS / tOF  
+- Interpolation Error (IE)  
+
 
 ---
 
 
+
+
+
+### 📈 <a name="metrics"></a>Metrics
+
+(Provide detailed descriptions or references of metrics like PSNR, SSIM, LPIPS, tOF, and Interpolation Error here if needed.)
 
