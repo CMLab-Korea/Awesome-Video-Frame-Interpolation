@@ -2,7 +2,7 @@
 ### Advances in Video Frame Interpolation: A Comprehensive Survey
 
 <p align="center">
-  <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/image%20(19).png?raw=true" alt="image" style="width:600px; height:auto;">
+  <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/image%20(19).png?raw=true" alt="image" style="width:700px; height:auto;">
 </p>
 
 
