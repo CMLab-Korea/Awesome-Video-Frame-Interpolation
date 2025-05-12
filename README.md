@@ -517,9 +517,9 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Generative adversarial networks</a></td><td align="center">Communications of the ACM</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="#">Auto-encoding variational bayes</a></td><td align="center"></td><td align="center">2013</td></tr>
-<tr><td align="left"><a href="#">Diffusion models beat gans on image synthesis</a></td><td align="center">NeurIPS</td><td align="center">2021</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1406.2661">Generative adversarial networks</a></td><td align="center">Communications of the ACM</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1312.6114">Auto-encoding variational bayes</a></td><td align="center"></td><td align="center">2013</td></tr>
+<tr><td align="left"><a href="https://proceedings.nips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf">Diffusion models beat gans on image synthesis</a></td><td align="center">NeurIPS</td><td align="center">2021</td></tr>
 </tbody>
 </table>
 
@@ -537,17 +537,17 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Denoising diffusion probabilistic models</a></td><td align="center">NeurIPS</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="#">Denoising diffusion implicit models</a></td><td align="center">arXiv</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="#">High-resolution image synthesis with latent diffusion models</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="#">Video diffusion models</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="#">Align your latents: High-resolution video synthesis with latent diffusion models</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Stable video diffusion: Scaling latent video diffusion models to large datasets</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Consistency models</a></td><td align="center"></td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Elucidating the design space of diffusion-based generative models</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="#">Progressive distillation for fast sampling of diffusion models</a></td><td align="center">arXiv</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="#">Latent consistency models: Synthesizing high-resolution images with few-step inference</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">One-step diffusion with distribution matching distillation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf">Denoising diffusion probabilistic models</a></td><td align="center">NeurIPS</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=St1giarCHLP">Denoising diffusion implicit models</a></td><td align="center">arXiv</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf">High-resolution image synthesis with latent diffusion models</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2204.03458">Video diffusion models</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf">Align your latents: High-resolution video synthesis with latent diffusion models</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2311.15127">Stable video diffusion: Scaling latent video diffusion models to large datasets</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2303.01469">Consistency models</a></td><td align="center"></td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=k7FuTOWMOc7">Elucidating the design space of diffusion-based generative models</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=TIdIXIpzhoI">Progressive distillation for fast sampling of diffusion models</a></td><td align="center">arXiv</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=duBCwjb68o">Latent consistency models: Synthesizing high-resolution images with few-step inference</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_One-step_Diffusion_with_Distribution_Matching_Distillation_CVPR_2024_paper.pdf">One-step diffusion with distribution matching distillation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 </tbody>
 </table>
 
