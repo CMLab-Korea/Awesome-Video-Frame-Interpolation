@@ -565,8 +565,8 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Adding conditional control to text-to-image diffusion models</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Controlnext: Powerful and efficient control for image and video generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf">Adding conditional control to text-to-image diffusion models</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2408.06070">Controlnext: Powerful and efficient control for image and video generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 </tbody>
 </table>
 
@@ -584,13 +584,13 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="#">Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Cogvideox: Text-to-video diffusion models with an expert transformer</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">Identity-Preserving Text-to-Video Generation by Frequency Decomposition</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">Lumiere: A space-time diffusion model for video generation</a></td><td align="center">SIGGRAPH Asia 2024 Conference Papers</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="#">Consisti2v: Enhancing visual consistency for image-to-video generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="#">Animate anyone: Consistent and controllable image-to-video synthesis for character animation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf">Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=LQzN6TRFg9">Cogvideox: Text-to-video diffusion models with an expert transformer</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2411.17440">Identity-Preserving Text-to-Video Generation by Frequency Decomposition</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3680528.3687614">Lumiere: A space-time diffusion model for video generation</a></td><td align="center">SIGGRAPH Asia 2024 Conference Papers</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2311.04145">I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=vqniLmUDvj">Consisti2v: Enhancing visual consistency for image-to-video generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Animate_Anyone_Consistent_and_Controllable_Image-to-Video_Synthesis_for_Character_Animation_CVPR_2024_paper.pdf">Animate anyone: Consistent and controllable image-to-video synthesis for character animation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 </tbody>
 </table>
 
