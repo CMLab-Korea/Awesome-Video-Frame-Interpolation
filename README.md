@@ -874,7 +874,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>All-in-One:Image</strong></summary>
+<summary><strong>All-in-One: Image</strong></summary>
 
 <table>
 <thead>
@@ -894,7 +894,7 @@ We categorize recent VFI papers by methodology:
 </details>
 
 <details>
-<summary><strong>All-in-One:Video</strong></summary>
+<summary><strong>All-in-One: Video</strong></summary>
 
 <table>
 <thead>
