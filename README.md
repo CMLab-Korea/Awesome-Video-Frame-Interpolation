@@ -1,5 +1,5 @@
 # Awesome-Video-Frame-Interpolation
-### Advances in Video Frame Interpolation: A Comprehensive Survey
+### 🂡 AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation
 
 <p align="center">
   <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/figure.png?raw=true" alt="figure">
