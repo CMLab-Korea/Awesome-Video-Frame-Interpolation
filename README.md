@@ -81,8 +81,8 @@ You can find the preprint of our survey here:
 ## 📄 Paper List
 
 We categorize recent VFI papers by methodology:
-<details>
-<summary><strong>Feature Extraction Network</strong></summary>
+## Feature Extraction Network
+
 
 <table>
 <thead>
@@ -99,10 +99,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>VFI</strong></summary>
+
+## VFI
+
 
 <table>
 <thead>
@@ -117,10 +117,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Application</strong></summary>
+
+## Application
+
 
 <table>
 <thead>
@@ -158,10 +158,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Challenges</strong></summary>
+
+## Challenges
+
 
 <table>
 <thead>
@@ -176,10 +176,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Motion-Compensated</strong></summary>
+
+## Motion-Compensated
+
 
 <table>
 <thead>
@@ -204,10 +204,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>GAN-Based</strong></summary>
+
+## GAN-Based
+
 
 <table>
 <thead>
@@ -234,10 +234,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Diffusion-Based</strong></summary>
+
+## Diffusion-Based
+
 
 <table>
 <thead>
@@ -265,10 +265,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Flow-Based</strong></summary>
+
+## Flow-Based
+
 
 <table>
 <thead>
@@ -313,10 +313,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Flow Network</strong></summary>
+
+## Flow Network
+
 
 <table>
 <thead>
@@ -343,10 +343,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Kernel-Based</strong></summary>
+
+## Kernel-Based
+
 
 <table>
 <thead>
@@ -378,10 +378,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Kernel-Flow Combined</strong></summary>
+
+## Kernel-Flow Combined
+
 
 <table>
 <thead>
@@ -402,10 +402,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Phase-Based</strong></summary>
+
+## Phase-Based
+
 
 <table>
 <thead>
@@ -426,10 +426,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Transformer-Based</strong></summary>
+
+## Transformer-Based
+
 
 <table>
 <thead>
@@ -452,10 +452,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Mamba</strong></summary>
+
+## Mamba
+
 
 <table>
 <thead>
@@ -482,10 +482,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Deep learning-Based vs. Generative</strong></summary>
+
+## Deep learning-Based vs. Generative
+
 
 <table>
 <thead>
@@ -503,10 +503,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>GAN</strong></summary>
+
+## GAN
+
 
 <table>
 <thead>
@@ -523,10 +523,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>DM-Based</strong></summary>
+
+## DM-Based
+
 
 <table>
 <thead>
@@ -551,10 +551,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Adapters</strong></summary>
+
+## Adapters
+
 
 <table>
 <thead>
@@ -570,10 +570,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>T2V and I2V</strong></summary>
+
+## T2V and I2V
+
 
 <table>
 <thead>
@@ -594,10 +594,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Event-Based</strong></summary>
+
+## Event-Based
+
 
 <table>
 <thead>
@@ -633,10 +633,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Event + SR</strong></summary>
+
+## Event + SR
+
 
 <table>
 <thead>
@@ -653,10 +653,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Medic</strong></summary>
+
+## Medic
+
 
 <table>
 <thead>
@@ -673,10 +673,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Cartoon Interpolation</strong></summary>
+
+## Cartoon Interpolation
+
 
 <table>
 <thead>
@@ -702,10 +702,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Game</strong></summary>
+
+## Game
+
 
 <table>
 <thead>
@@ -720,10 +720,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Joint: SR</strong></summary>
+
+## Joint: SR
+
 
 <table>
 <thead>
@@ -742,10 +742,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Joint: Deblur</strong></summary>
+
+## Joint: Deblur
+
 
 <table>
 <thead>
@@ -766,10 +766,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Loss Function</strong></summary>
+
+## Loss Function
+
 
 <table>
 <thead>
@@ -790,10 +790,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Dataset</strong></summary>
+
+## Dataset
+
 
 <table>
 <thead>
@@ -820,10 +820,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Metric</strong></summary>
+
+## Metric
+
 
 <table>
 <thead>
@@ -851,10 +851,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>Future Research Direction</strong></summary>
+
+## Future Research Direction
+
 
 <table>
 <thead>
@@ -871,10 +871,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>All-in-One: Image</strong></summary>
+
+## All-in-One: Image
+
 
 <table>
 <thead>
@@ -891,10 +891,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>All-in-One: Video</strong></summary>
+
+## All-in-One: Video
+
 
 <table>
 <thead>
@@ -910,10 +910,10 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
 
-<details>
-<summary><strong>4D</strong></summary>
+
+## 4D
+
 
 <table>
 <thead>
@@ -931,7 +931,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-</details>
+
 
 
 
