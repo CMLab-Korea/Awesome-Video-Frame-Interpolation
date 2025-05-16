@@ -951,11 +951,16 @@ We include commonly used datasets for evaluating VFI performance:
 
 The following metrics are commonly used to evaluate video frame interpolation quality:
 
-- **PSNR (Peak Signal-to-Noise Ratio)**: Measures the ratio between the maximum possible power of a signal and the power of corrupting noise. Higher PSNR indicates better fidelity.
-- **SSIM (Structural Similarity Index)**: Captures perceptual similarity considering luminance, contrast, and structure. Closer to 1 means better structural similarity.
-- **LPIPS (Learned Perceptual Image Patch Similarity)**: A deep-learning-based perceptual metric using pretrained neural networks (e.g., VGG). Lower LPIPS indicates higher perceptual similarity.
-- **tOF (temporal Optical Flow)**: Measures the error in motion estimation between interpolated and ground-truth frames based on flow consistency.
-- **IE (Interpolation Error)**: Calculates the pixel-wise difference between the interpolated result and the true intermediate frame, typically used in datasets with high frame-rate videos like SNU-FILM.
+- <a href="https://ieeexplore.ieee.org/document/5596999" target="_blank"><strong>PSNR (Peak Signal-to-Noise Ratio)</strong></a>: Measures the ratio between the maximum possible power of a signal and the power of corrupting noise. Higher PSNR indicates better fidelity.
 
+- <a href="https://ieeexplore.ieee.org/document/1284395" target="_blank"><strong>SSIM (Structural Similarity Index)</strong></a>: Captures perceptual similarity considering luminance, contrast, and structure. Closer to 1 means better structural similarity.
+
+- <a href="https://arxiv.org/abs/1801.03924" target="_blank"><strong>LPIPS (Learned Perceptual Image Patch Similarity)</strong></a>: A deep-learning-based perceptual metric using pretrained neural networks (e.g., VGG). Lower LPIPS indicates higher perceptual similarity.
+
+- <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Multi-Scale_Context_Aggregation_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf" target="_blank"><strong>tOF (temporal Optical Flow)</strong></a>: Measures the error in motion estimation between interpolated and ground-truth frames based on flow consistency.
+
+- <a href="https://arxiv.org/abs/2209.05438" target="_blank"><strong>IE (Interpolation Error)</strong></a>: Calculates the pixel-wise difference between the interpolated result and the true intermediate frame, typically used in datasets with high frame-rate videos like SNU-FILM.
+
+<blockquote>
 Each metric targets different aspects—pixel fidelity, perceptual quality, and motion consistency—and should be considered jointly for comprehensive evaluation.
-
+</blockquote>
