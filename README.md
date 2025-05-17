@@ -52,8 +52,7 @@ Our study offers a consolidated reference point and future directions for resear
 
 ## 📣 News
 
-- 📌 2025-05-01: Paper submitted to TPAMI!
-- 🧪 2025-04-20: Benchmarked latest diffusion-based VFI models.
+- 📌 2025-05-01: Paper released to ArXiv.
 - 🚀 2025-03-15: Repository initialized.
 
 ---
@@ -63,9 +62,9 @@ Our study offers a consolidated reference point and future directions for resear
 If you find this survey helpful, please consider citing us:
 
 ```bibtex
-@article{your2025vfi,
+@article{Kye2025AceVFI,
   title={🂡 AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
-  author={Your Name and Collaborator 1 and Collaborator 2},
+  author={Kye, Dahyeon and Roh, Changhyun and Sim, Hyeonjun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
   journal={arXiv preprint arXiv:your-paper-id},
   year={2025}
 }
