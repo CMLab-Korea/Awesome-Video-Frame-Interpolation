@@ -1027,13 +1027,13 @@ These metrics better reflect human perception by analyzing textures, semantics, 
   Uses deep features to assess perceptual similarity.  
   📌 Lower LPIPS = better perceptual similarity.
 
-- <a href="" target="_blank"><strong>FloLPIPS</strong></a>  
+- <a href="https://arxiv.org/pdf/2207.08119" target="_blank"><strong>FloLPIPS</strong></a>  
   Motion-aware LPIPS variant that uses optical flow for weighting.
 
-- <a href="" target="_blank"><strong>STLPIPS</strong></a>  
+- <a href="https://link.springer.com/chapter/10.1007/978-3-031-19797-0_6" target="_blank"><strong>STLPIPS</strong></a>  
   Shift-tolerant version of LPIPS, robust to slight misalignments.
 
-- <a href="https://github.com/dingkeyan93/DISTS" target="_blank"><strong>DISTS (Deep Image Structure and Texture Similarity)</strong></a>  
+- <a href="https://ieeexplore.ieee.org/document/9298952" target="_blank"><strong>DISTS (Deep Image Structure and Texture Similarity)</strong></a>  
   Separately evaluates structure and texture using deep features.  
   📌 Balances local detail and global coherence.
 
@@ -1043,21 +1043,21 @@ These metrics better reflect human perception by analyzing textures, semantics, 
 
 These metrics evaluate spatiotemporal coherence across video sequences, important for smooth motion and consistency.
 
-- <a href="https://github.com/zwx8981/VSFA" target="_blank"><strong>VSFA (Video Spatial-Feature Aggregation)</strong></a>  
+- <a href="https://dl.acm.org/doi/pdf/10.1145/3343031.3351028" target="_blank"><strong>VSFA (Video Spatial-Feature Aggregation)</strong></a>  
   No-reference model estimating perceptual quality from human-labeled videos using deep recurrent features.  
   📌 Lower score = better perceived video quality.
 
-- <a href="" target="_blank"><strong>tOF (temporal Optical Flow consistency)</strong></a>  
+- <a href="https://arxiv.org/pdf/1811.09393" target="_blank"><strong>tOF (temporal Optical Flow consistency)</strong></a>  
   Measures how consistent optical flow is across frames.  
   📌 Lower tOF = smoother motion continuity.
 
-- <a href="https://github.com/google-research/google-research/tree/master/frechet_video_distance" target="_blank"><strong>FVD (Fréchet Video Distance)</strong></a>  
+- <a href="https://arxiv.org/pdf/1812.01717" target="_blank"><strong>FVD (Fréchet Video Distance)</strong></a>  
   Uses I3D features to compare real vs generated video distributions.  
   📌 Lower FVD = better realism and temporal quality.
 
-- <a href="" target="_blank"><strong>FVMD (Fréchet Video Motion Distance)</strong></a>  
+- <a href="https://arxiv.org/pdf/2407.16124" target="_blank"><strong>FVMD (Fréchet Video Motion Distance)</strong></a>  
   Enhances FVD by disentangling motion from appearance for better motion consistency evaluation.
 
-- <a href="" target="_blank"><strong>VBench</strong></a>  
+- <a href="https://arxiv.org/pdf/2311.17982" target="_blank"><strong>VBench</strong></a>  
   Large-scale, no-reference benchmark for evaluating fidelity, coherence, and realism using semantic video representations.  
   📌 Ideal for reference-free evaluation.
