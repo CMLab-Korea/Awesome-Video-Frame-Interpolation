@@ -78,7 +78,9 @@ You can find the preprint of our survey here:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology:
+We categorize recent VFI papers by methodology:  
+![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/category.png)
+
 ## Feature Extraction Network
 
 
