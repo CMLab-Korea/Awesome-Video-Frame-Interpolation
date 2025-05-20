@@ -998,15 +998,15 @@ This section summarizes commonly used metrics for evaluating the quality of vide
 
 These metrics compare each interpolated frame to its ground truth (GT) reference on a pixel level.
 
-- **PSNR (Peak Signal-to-Noise Ratio)**  
+- <a href="https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio" target="_blank"><strong>PSNR (Peak Signal-to-Noise Ratio)</strong></a>  
   Measures reconstruction fidelity via Mean Squared Error (MSE).  
   📌 Higher is better, but it often doesn't align with human perception, especially in high-frequency regions.
 
-- **SSIM (Structural Similarity Index)**  
+- <a href="https://en.wikipedia.org/wiki/Structural_similarity" target="_blank"><strong>SSIM (Structural Similarity Index)</strong></a>  
   Compares luminance, contrast, and texture to evaluate structural similarity.  
   📌 More perceptually aligned than PSNR. Higher SSIM indicates stronger similarity.
 
-- **IE (Interpolation Error)**  
+- <strong>IE (Interpolation Error)</strong>  
   Root-mean-square error between the interpolated and GT frame.  
   📌 Simple and intuitive but limited in perceptual relevance.
 
@@ -1016,31 +1016,27 @@ These metrics compare each interpolated frame to its ground truth (GT) reference
 
 These metrics better reflect human perception by analyzing textures, semantics, and style.
 
-- **NIQE (Natural Image Quality Evaluator)**  
+- <a href="https://live.ece.utexas.edu/research/quality/niqe_release.zip" target="_blank"><strong>NIQE (Natural Image Quality Evaluator)</strong></a>  
   A no-reference metric using statistical deviations from natural images.  
-  📌 Lower NIQE implies higher natural image quality.  
-  🔗 <a href="https://live.ece.utexas.edu/research/quality/niqe_release.zip" target="_blank">Project page</a>
+  📌 Lower NIQE implies higher natural image quality.
 
-- **FID (Fréchet Inception Distance)**  
+- <a href="https://github.com/mseitzer/pytorch-fid" target="_blank"><strong>FID (Fréchet Inception Distance)</strong></a>  
   Measures distributional difference in features between generated and GT frames.  
-  📌 Lower FID indicates better semantic alignment.  
-  🔗 <a href="https://github.com/mseitzer/pytorch-fid" target="_blank">GitHub</a>
+  📌 Lower FID indicates better semantic alignment.
 
-- **LPIPS (Learned Perceptual Image Patch Similarity)**  
+- <a href="https://github.com/richzhang/PerceptualSimilarity" target="_blank"><strong>LPIPS (Learned Perceptual Image Patch Similarity)</strong></a>  
   Uses deep features to assess perceptual similarity.  
-  📌 Lower LPIPS = better perceptual similarity.  
-  🔗 <a href="https://github.com/richzhang/PerceptualSimilarity" target="_blank">GitHub</a>
+  📌 Lower LPIPS = better perceptual similarity.
 
-- **FloLPIPS**  
+- <strong>FloLPIPS</strong>  
   Motion-aware LPIPS variant that uses optical flow for weighting.
 
-- **STLPIPS**  
+- <strong>STLPIPS</strong>  
   Shift-tolerant version of LPIPS, robust to slight misalignments.
 
-- **DISTS (Deep Image Structure and Texture Similarity)**  
+- <a href="https://github.com/dingkeyan93/DISTS" target="_blank"><strong>DISTS (Deep Image Structure and Texture Similarity)</strong></a>  
   Separately evaluates structure and texture using deep features.  
-  📌 Balances local detail and global coherence.  
-  🔗 <a href="https://github.com/dingkeyan93/DISTS" target="_blank">GitHub</a>
+  📌 Balances local detail and global coherence.
 
 ---
 
@@ -1048,22 +1044,21 @@ These metrics better reflect human perception by analyzing textures, semantics, 
 
 These metrics evaluate spatiotemporal coherence across video sequences, important for smooth motion and consistency.
 
-- **VSFA (Video Spatial-Feature Aggregation)**  
+- <a href="https://github.com/zwx8981/VSFA" target="_blank"><strong>VSFA (Video Spatial-Feature Aggregation)</strong></a>  
   No-reference model estimating perceptual quality from human-labeled videos using deep recurrent features.  
-  🔗 <a href="https://github.com/zwx8981/VSFA" target="_blank">GitHub</a>
+  📌 Lower score = better perceived video quality.
 
-- **tOF (temporal Optical Flow consistency)**  
+- <strong>tOF (temporal Optical Flow consistency)</strong>  
   Measures how consistent optical flow is across frames.  
   📌 Lower tOF = smoother motion continuity.
 
-- **FVD (Fréchet Video Distance)**  
+- <a href="https://github.com/google-research/google-research/tree/master/frechet_video_distance" target="_blank"><strong>FVD (Fréchet Video Distance)</strong></a>  
   Uses I3D features to compare real vs generated video distributions.  
-  📌 Lower FVD = better realism and temporal quality.  
-  🔗 <a href="https://github.com/google-research/google-research/tree/master/frechet_video_distance" target="_blank">Google Research</a>
+  📌 Lower FVD = better realism and temporal quality.
 
-- **FVMD (Fréchet Video Motion Distance)**  
+- <strong>FVMD (Fréchet Video Motion Distance)</strong>  
   Enhances FVD by disentangling motion from appearance for better motion consistency evaluation.
 
-- **VBench**  
+- <strong>VBench</strong>  
   Large-scale, no-reference benchmark for evaluating fidelity, coherence, and realism using semantic video representations.  
   📌 Ideal for reference-free evaluation.
