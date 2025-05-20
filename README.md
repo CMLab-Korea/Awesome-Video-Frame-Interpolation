@@ -935,15 +935,56 @@ We categorize recent VFI papers by methodology:
 
 
 
-## 📊 Benchmarks & Datasets
+## 📊 Datasets & Benchmarks 
 
-We include commonly used datasets for evaluating VFI performance:
+We include commonly used datasets for evaluating VFI performance.  
+Datasets are categorized into **Triplet** and **Multi-frame** types depending on the supervision format.
 
-- <a href="http://toflow.csail.mit.edu/" target="_blank"><strong>Vimeo90K</strong></a>: A high-quality dataset containing triplets of video frames, primarily used for training and evaluating interpolation methods.
-- <a href="https://www.crcv.ucf.edu/data/UCF101.php" target="_blank"><strong>UCF101</strong></a>: Originally a human action recognition dataset, widely adopted for VFI evaluation due to diverse motion content.
-- <a href="https://davischallenge.org/" target="_blank"><strong>DAVIS</strong></a>: Designed for video object segmentation, this dataset provides high-resolution videos with complex motion and occlusion—making it suitable for testing robustness.
-- <a href="https://myungsub.github.io/CAIN/" target="_blank"><strong>SNU-FILM</strong></a>: A dataset offering high frame-rate videos (up to 960fps), useful for analyzing subtle motion and evaluating temporal consistency.
-- <a href="http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/DeepVideoDeblurring_Dataset.zip" target="_blank"><strong>Adobe240/60fps</strong></a>: Provides real-world 240fps videos and their downsampled 60fps versions for training/testing frame interpolation models under natural conditions.
+---
+
+### 🔹 Triplet Datasets
+
+Early learning-based VFI approaches primarily rely on triplet datasets, where two input frames are used to predict the temporally centered GT frame.
+
+- <a href="https://vision.middlebury.edu/flow/" target="_blank"><strong>Middlebury</strong></a>: Originally designed for optical flow, Middlebury contains short video clips with moderate complexity. Its small size limits scalability, but it remains a standard benchmark for consistency evaluation.
+
+- <a href="https://www.crcv.ucf.edu/data/UCF101.php" target="_blank"><strong>UCF101</strong></a>: A human action dataset from which a small subset of triplets is used for VFI. Due to its low resolution and simple motion, it is mainly used for training or sanity checks.
+
+- <a href="http://toflow.csail.mit.edu/" target="_blank"><strong>Vimeo90K</strong></a>: A widely adopted benchmark with diverse scenes and consistent format. It offers clean supervision and balanced motion complexity, making it ideal for comparative analysis.
+
+- <a href="https://myungsub.github.io/CAIN/" target="_blank"><strong>SNU-FILM</strong></a>: Constructed from high-speed footage and categorized by motion difficulty, SNU-FILM enables evaluation across varying levels of motion, occlusion, and blur.
+
+- <a href="https://github.com/cheind/atd" target="_blank"><strong>ATD-12K</strong></a>: A large-scale animation dataset with rich stylistic diversity. Its variation in artistic textures and motion patterns supports both general-purpose and domain-specific evaluation.
+
+---
+
+### 🔸 Multi-frame Datasets
+
+Multi-frame datasets enable dense temporal supervision and are commonly used in both CTFI and ATFI settings. They support flexible frame sampling and evaluation under diverse temporal intervals.
+
+- <a href="https://media.xiph.org/" target="_blank"><strong>Xiph</strong></a>: A curated set of 4K video sequences designed for assessing interpolation fidelity in subtle motion settings.
+
+- <a href="http://www.cvlibs.net/datasets/kitti/" target="_blank"><strong>KITTI</strong></a>: Captured in autonomous driving scenarios, KITTI poses unique challenges with sparse GT and large ego-motion.
+
+- <a href="http://sintel.is.tue.mpg.de/" target="_blank"><strong>Sintel</strong></a>: A synthetic dataset rendered from the Sintel film, offering photorealistic motion and structured flow annotations.
+
+- <a href="https://davischallenge.org/" target="_blank"><strong>DAVIS</strong></a>: Originally for segmentation, DAVIS features complex object motion, occlusion, and deformation, offering rich dynamics for interpolation.
+
+- <a href="http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/DeepVideoDeblurring_Dataset.zip" target="_blank"><strong>Adobe240</strong></a>: Collected at 240fps, this dataset captures real-world motion blur and lighting changes, ideal for fine-grained temporal modeling.
+
+- <a href="https://seungjunnah.github.io/Datasets/gopro" target="_blank"><strong>GOPRO</strong></a>: Featuring high-frame-rate recordings with handheld cameras, GOPRO provides realistic non-linear motion and defocus blur.
+
+- <a href="https://github.com/JunHeum/Zooming-Slow-Mo" target="_blank"><strong>Youtube240</strong></a>: A large-scale, in-the-wild dataset collected from YouTube, encompassing varied content and challenging motion artifacts.
+
+- <a href="https://media.xiph.org/" target="_blank"><strong>HD</strong></a>: A subset of high-resolution content from Xiph, with sharper motion content suited for realistic evaluation.
+
+- <a href="https://github.com/CM-BF/X4K1000FPS" target="_blank"><strong>X4K1000FPS</strong></a>: A premier benchmark for ultra-slow motion and long-range interpolation, thanks to its dense 1000fps and 4K capture settings.
+
+- <a href="https://m-bain.github.io/webvid-dataset/" target="_blank"><strong>WebVid-10M</strong></a>: A large-scale web video corpus originally built for text-video tasks. Its size and diversity support generative VFI when properly filtered.
+
+- <a href="https://github.com/dingkeyan93/LAVIB" target="_blank"><strong>LAVIB</strong></a>: Designed for large-scale, diverse-domain evaluation with balanced splits and curated subsets for out-of-distribution testing.
+
+- <a href="https://github.com/wgcban/OpenVid" target="_blank"><strong>OpenVid</strong></a>: A text-video dataset supporting multi-modal VFI and DM-based interpolation research via dense, aligned samples.
 
 ---
 
