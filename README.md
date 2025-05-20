@@ -1027,10 +1027,10 @@ These metrics better reflect human perception by analyzing textures, semantics, 
   Uses deep features to assess perceptual similarity.  
   📌 Lower LPIPS = better perceptual similarity.
 
-- <strong>FloLPIPS</strong>  
+- <a href="" target="_blank"><strong>FloLPIPS</strong></a>  
   Motion-aware LPIPS variant that uses optical flow for weighting.
 
-- <strong>STLPIPS</strong>  
+- <a href="" target="_blank"><strong>STLPIPS</strong></a>  
   Shift-tolerant version of LPIPS, robust to slight misalignments.
 
 - <a href="https://github.com/dingkeyan93/DISTS" target="_blank"><strong>DISTS (Deep Image Structure and Texture Similarity)</strong></a>  
@@ -1047,7 +1047,7 @@ These metrics evaluate spatiotemporal coherence across video sequences, importan
   No-reference model estimating perceptual quality from human-labeled videos using deep recurrent features.  
   📌 Lower score = better perceived video quality.
 
-- <strong>tOF (temporal Optical Flow consistency)</strong>  
+- <a href="" target="_blank"><strong>tOF (temporal Optical Flow consistency)</strong></a>  
   Measures how consistent optical flow is across frames.  
   📌 Lower tOF = smoother motion continuity.
 
@@ -1055,9 +1055,9 @@ These metrics evaluate spatiotemporal coherence across video sequences, importan
   Uses I3D features to compare real vs generated video distributions.  
   📌 Lower FVD = better realism and temporal quality.
 
-- <strong>FVMD (Fréchet Video Motion Distance)</strong>  
+- <a href="" target="_blank"><strong>FVMD (Fréchet Video Motion Distance)</strong></a>  
   Enhances FVD by disentangling motion from appearance for better motion consistency evaluation.
 
-- <strong>VBench</strong>  
+- <a href="" target="_blank"><strong>VBench</strong></a>  
   Large-scale, no-reference benchmark for evaluating fidelity, coherence, and realism using semantic video representations.  
   📌 Ideal for reference-free evaluation.
