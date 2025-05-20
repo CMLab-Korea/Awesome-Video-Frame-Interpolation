@@ -988,20 +988,82 @@ Multi-frame datasets enable dense temporal supervision and are commonly used in 
 
 ---
 
-## 📈 Metrics
+## 📈 Evaluation Metrics
 
-The following metrics are commonly used to evaluate video frame interpolation quality:
+This section summarizes commonly used metrics for evaluating the quality of video frame interpolation (VFI) results.
 
-- <a href="https://ieeexplore.ieee.org/document/5596999" target="_blank"><strong>PSNR (Peak Signal-to-Noise Ratio)</strong></a>: Measures the ratio between the maximum possible power of a signal and the power of corrupting noise. Higher PSNR indicates better fidelity.
+---
 
-- <a href="https://ieeexplore.ieee.org/document/1284395" target="_blank"><strong>SSIM (Structural Similarity Index)</strong></a>: Captures perceptual similarity considering luminance, contrast, and structure. Closer to 1 means better structural similarity.
+### 📷 Image-level Metrics
 
-- <a href="https://arxiv.org/abs/1801.03924" target="_blank"><strong>LPIPS (Learned Perceptual Image Patch Similarity)</strong></a>: A deep-learning-based perceptual metric using pretrained neural networks (e.g., VGG). Lower LPIPS indicates higher perceptual similarity.
+These metrics compare each interpolated frame to its ground truth (GT) reference on a pixel level.
 
-- <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Multi-Scale_Context_Aggregation_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf" target="_blank"><strong>tOF (temporal Optical Flow)</strong></a>: Measures the error in motion estimation between interpolated and ground-truth frames based on flow consistency.
+- **PSNR (Peak Signal-to-Noise Ratio)**  
+  Measures reconstruction fidelity via Mean Squared Error (MSE).  
+  📌 Higher is better, but it often doesn't align with human perception, especially in high-frequency regions.
 
-- <a href="https://arxiv.org/abs/2209.05438" target="_blank"><strong>IE (Interpolation Error)</strong></a>: Calculates the pixel-wise difference between the interpolated result and the true intermediate frame, typically used in datasets with high frame-rate videos like SNU-FILM.
+- **SSIM (Structural Similarity Index)**  
+  Compares luminance, contrast, and texture to evaluate structural similarity.  
+  📌 More perceptually aligned than PSNR. Higher SSIM indicates stronger similarity.
 
-<blockquote>
-Each metric targets different aspects—pixel fidelity, perceptual quality, and motion consistency—and should be considered jointly for comprehensive evaluation.
-</blockquote>
+- **IE (Interpolation Error)**  
+  Root-mean-square error between the interpolated and GT frame.  
+  📌 Simple and intuitive but limited in perceptual relevance.
+
+---
+
+### 👁️ Perceptual Metrics
+
+These metrics better reflect human perception by analyzing textures, semantics, and style.
+
+- **NIQE (Natural Image Quality Evaluator)**  
+  A no-reference metric using statistical deviations from natural images.  
+  📌 Lower NIQE implies higher natural image quality.  
+  🔗 <a href="https://live.ece.utexas.edu/research/quality/niqe_release.zip" target="_blank">Project page</a>
+
+- **FID (Fréchet Inception Distance)**  
+  Measures distributional difference in features between generated and GT frames.  
+  📌 Lower FID indicates better semantic alignment.  
+  🔗 <a href="https://github.com/mseitzer/pytorch-fid" target="_blank">GitHub</a>
+
+- **LPIPS (Learned Perceptual Image Patch Similarity)**  
+  Uses deep features to assess perceptual similarity.  
+  📌 Lower LPIPS = better perceptual similarity.  
+  🔗 <a href="https://github.com/richzhang/PerceptualSimilarity" target="_blank">GitHub</a>
+
+- **FloLPIPS**  
+  Motion-aware LPIPS variant that uses optical flow for weighting.
+
+- **STLPIPS**  
+  Shift-tolerant version of LPIPS, robust to slight misalignments.
+
+- **DISTS (Deep Image Structure and Texture Similarity)**  
+  Separately evaluates structure and texture using deep features.  
+  📌 Balances local detail and global coherence.  
+  🔗 <a href="https://github.com/dingkeyan93/DISTS" target="_blank">GitHub</a>
+
+---
+
+### 🎞️ Video-level Metrics
+
+These metrics evaluate spatiotemporal coherence across video sequences, important for smooth motion and consistency.
+
+- **VSFA (Video Spatial-Feature Aggregation)**  
+  No-reference model estimating perceptual quality from human-labeled videos using deep recurrent features.  
+  🔗 <a href="https://github.com/zwx8981/VSFA" target="_blank">GitHub</a>
+
+- **tOF (temporal Optical Flow consistency)**  
+  Measures how consistent optical flow is across frames.  
+  📌 Lower tOF = smoother motion continuity.
+
+- **FVD (Fréchet Video Distance)**  
+  Uses I3D features to compare real vs generated video distributions.  
+  📌 Lower FVD = better realism and temporal quality.  
+  🔗 <a href="https://github.com/google-research/google-research/tree/master/frechet_video_distance" target="_blank">Google Research</a>
+
+- **FVMD (Fréchet Video Motion Distance)**  
+  Enhances FVD by disentangling motion from appearance for better motion consistency evaluation.
+
+- **VBench**  
+  Large-scale, no-reference benchmark for evaluating fidelity, coherence, and realism using semantic video representations.  
+  📌 Ideal for reference-free evaluation.
