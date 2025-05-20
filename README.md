@@ -43,8 +43,8 @@ Our study offers a consolidated reference point and future directions for resear
 - [🔖 BibTeX](#-bibtex)
 - [🔍 Survey Paper](#-survey-paper)
 - [📄 Paper List](#-paper-list)
-- [📊 Datasets & Benchmarks](#datasets--benchmarks)
-- [📈 Evaluation Metrics](#evaluation-metrics)
+- [📊 Datasets & Benchmarks](#-datasets--benchmarks)
+- [📈 Evaluation Metrics](#-evaluation-metrics)
 
 ---
 
