@@ -979,7 +979,7 @@ Multi-frame datasets enable dense temporal supervision and are commonly used in 
 
 - <a href="https://github.com/JihyongOh/XVFI" target="_blank"><strong>X4K1000FPS</strong></a>: A premier benchmark for ultra-slow motion and long-range interpolation, thanks to its dense 1000fps and 4K capture settings.
 
-- <a href="https://m-bain.github.io/webvid-dataset/" target="_blank"><strong>WebVid-10M</strong></a>: A large-scale web video corpus originally built for text-video tasks. Its size and diversity support generative VFI when properly filtered.
+- <a href="https://github.com/m-bain/webvid" target="_blank"><strong>WebVid-10M</strong></a>: A large-scale web video corpus originally built for text-video tasks. Its size and diversity support generative VFI when properly filtered.
 
 - <a href="https://alexandrosstergiou.github.io/datasets/LAVIB" target="_blank"><strong>LAVIB</strong></a>: Designed for large-scale, diverse-domain evaluation with balanced splits and curated subsets for out-of-distribution testing.
 
