@@ -1001,11 +1001,11 @@ These metrics compare each interpolated frame to its ground truth (GT) reference
   Measures reconstruction fidelity via Mean Squared Error (MSE).  
   📌 Higher is better, but it often doesn't align with human perception, especially in high-frequency regions.
 
-- <a href="https://en.wikipedia.org/wiki/Structural_similarity" target="_blank"><strong>SSIM (Structural Similarity Index)</strong></a>  
+- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395" target="_blank"><strong>SSIM (Structural Similarity Index)</strong></a>  
   Compares luminance, contrast, and texture to evaluate structural similarity.  
   📌 More perceptually aligned than PSNR. Higher SSIM indicates stronger similarity.
 
-- <strong>IE (Interpolation Error)</strong>  
+- <a href="https://link.springer.com/article/10.1007/s11263-010-0390-2" target="_blank"><strong>IE (Interpolation Error)</strong></a>  
   Root-mean-square error between the interpolated and GT frame.  
   📌 Simple and intuitive but limited in perceptual relevance.
 
@@ -1015,15 +1015,15 @@ These metrics compare each interpolated frame to its ground truth (GT) reference
 
 These metrics better reflect human perception by analyzing textures, semantics, and style.
 
-- <a href="https://live.ece.utexas.edu/research/quality/niqe_release.zip" target="_blank"><strong>NIQE (Natural Image Quality Evaluator)</strong></a>  
+- <a href="https://ieeexplore.ieee.org/document/6353522" target="_blank"><strong>NIQE (Natural Image Quality Evaluator)</strong></a>  
   A no-reference metric using statistical deviations from natural images.  
   📌 Lower NIQE implies higher natural image quality.
 
-- <a href="https://github.com/mseitzer/pytorch-fid" target="_blank"><strong>FID (Fréchet Inception Distance)</strong></a>  
+- <a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf" target="_blank"><strong>FID (Fréchet Inception Distance)</strong></a>  
   Measures distributional difference in features between generated and GT frames.  
   📌 Lower FID indicates better semantic alignment.
 
-- <a href="https://github.com/richzhang/PerceptualSimilarity" target="_blank"><strong>LPIPS (Learned Perceptual Image Patch Similarity)</strong></a>  
+- <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf" target="_blank"><strong>LPIPS (Learned Perceptual Image Patch Similarity)</strong></a>  
   Uses deep features to assess perceptual similarity.  
   📌 Lower LPIPS = better perceptual similarity.
 
