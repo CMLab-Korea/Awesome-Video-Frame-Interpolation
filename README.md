@@ -62,7 +62,7 @@ If you find this survey helpful, please consider citing us:
 ```bibtex
 @article{Kye2025AceVFI,
   title={🂡 AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
-  author={Kye, Dahyeon and Roh, Changhyun and Sim, Hyeonjun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
+  author={Kye, Dahyeon and Roh, Changhyun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
   journal={arXiv preprint arXiv:your-paper-id},
   year={2025}
 }
