@@ -80,7 +80,7 @@ You can find the preprint of our survey here:
 We categorize recent VFI papers by methodology:  
 ![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
 
-## II.A.Motion Compensation-based
+## II.A. Motion Compensation-based
 
 
 <table>
@@ -106,7 +106,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Deep learning-based
+## II.B. Deep learning-based
 
 ### Kernel-based
 
@@ -304,7 +304,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.C.Diffusion Model-based
+## II.C. Diffusion Model-based
 
 
 <table>
@@ -332,7 +332,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## V.A.Datasets
+## V.A. Datasets
 
 
 <table>
@@ -359,7 +359,7 @@ We categorize recent VFI papers by methodology:
 </table>
 
 
-## V.A.Loss Functions
+## V.A. Loss Functions
 
 
 <table>
@@ -382,7 +382,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## V.A.Evaluation Metrics
+## V.A. Evaluation Metrics
 
 
 <table>
@@ -407,7 +407,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.Applications
+## VI. Applications
 
 
 <table>
@@ -441,7 +441,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.A.Event-Based VFI
+## VI.A. Event-Based VFI
 
 
 <table>
@@ -477,7 +477,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.B.Cartoon VFI
+## VI.B. Cartoon VFI
 
 
 <table>
@@ -503,7 +503,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.C.Medical Image VFI
+## VI.C. Medical Image VFI
 
 
 <table>
@@ -523,7 +523,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## VI.D.Joint VFI: SR
+## VI.D. Joint VFI: SR
 
 
 <table>
@@ -545,7 +545,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## VI.D.Joint VFI: Deblur
+## VI.D. Joint VFI: Deblur
 
 
 <table>
