@@ -991,8 +991,6 @@ Multi-frame datasets enable dense temporal supervision and are commonly used in 
 
 This section summarizes commonly used metrics for evaluating the quality of video frame interpolation (VFI) results.
 
----
-
 ### 📷 Image-level Metrics
 
 These metrics compare each interpolated frame to its ground truth (GT) reference on a pixel level.
