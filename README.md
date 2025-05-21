@@ -80,7 +80,7 @@ You can find the preprint of our survey here:
 We categorize recent VFI papers by methodology:  
 ![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
 
-## II.A.Motion Compensation-Based
+## II.A.Motion Compensation-based
 
 
 <table>
@@ -106,9 +106,9 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Deep learning-Based
+## II.B.Deep learning-based
 
-### - Kernel-Based
+### Kernel-based
 
 
 <table>
@@ -142,9 +142,7 @@ We categorize recent VFI papers by methodology:
 </table>
 
 
-### Flow-Based
-
-
+### Flow-based
 <table>
 <thead>
 <tr>
@@ -209,7 +207,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## Phase-Based
+## Phase-based
 
 
 <table>
@@ -231,7 +229,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## GAN-Based
+## GAN-based
 
 
 <table>
@@ -259,7 +257,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## Transformer-Based
+## Transformer-based
 
 
 <table>
@@ -284,7 +282,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## Mamba-Based
+## Mamba-based
 
 
 <table>
