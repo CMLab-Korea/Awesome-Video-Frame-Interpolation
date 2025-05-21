@@ -80,7 +80,7 @@ You can find the preprint of our survey here:
 We categorize recent VFI papers by methodology:  
 ![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
 
-## II.A.Motion Compensation-based
+## II.A.Motion Compensation-Based
 
 
 <table>
@@ -106,26 +106,9 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Deep learning-based
+## II.B.Deep learning-Based
 
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2202.07727">A subjective quality study for video frame interpolation</a></td><td align="center">ICIP</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2106.15282">Cascaded diffusion models for high fidelity image generation</a></td><td align="center">JMLR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123096">Visual quality assessment for interpolated slow-motion videos based on a novel database</a></td><td align="center">QoMEX</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7486599">Very deep convolutional neural network based image classification using small training sample size</a></td><td align="center">ACPR</td><td align="center">2015</td></tr>
-</tbody>
-</table>
-
-## II.B.Kernel-based
+### Kernel-Based
 
 
 <table>
@@ -159,7 +142,7 @@ We categorize recent VFI papers by methodology:
 </table>
 
 
-## II.B.Flow-based
+### Flow-Based
 
 
 <table>
@@ -204,7 +187,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Kernel- and Flow-based Combined
+## Kernel- and Flow-based Combined
 
 
 <table>
@@ -226,7 +209,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Phase-based
+## Phase-Based
 
 
 <table>
@@ -248,7 +231,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.GAN-based
+## GAN-Based
 
 
 <table>
@@ -268,7 +251,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0925231219315747">Frame-GAN: Increasing the frame rate of gait videos with generative adversarial networks</a></td><td align="center">Neurocomputing</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/document/8451971">Generating realistic videos from keyframes with concatenated GANs</a></td><td align="center">IEEE on Circuits and Systems for Video Technology</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1711.06045">Frame interpolation with multi-scale deep loss functions and generative adversarial networks</a></td><td align="center">arXiv</td><td align="center">2017</td></tr>
-<tr><td align="left"><a href="http://vision.stanford.edu/teaching/cs231n/reports/2017/pdfs/317.pdf">Frame interpolation using generative adversarial networks</a></td><td align="center">arXiv</td><td align="center">2017</td></tr>
+<tr><td align="left"><a href="http://vision.stanford.edu/teaching/cs231n/reports/2017/pdfs/317.pdf">Frame interpolation using generative adversarial networks</a></td><td align="center"></td><td align="center">arXiv</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/892c3b1c6dccd52936e27cbd0ff683d6-Paper.pdf">Improved training of wasserstein gans</a></td><td align="center">NeurIPS</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1703.10717">Began: Boundary equilibrium generative adversarial networks</a></td><td align="center">arXiv</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1701.07875">Wasserstein generative adversarial networks</a></td><td align="center">ICML</td><td align="center">2017</td></tr>
@@ -276,7 +259,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Transformer-based
+## Transformer-Based
 
 
 <table>
@@ -301,7 +284,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## II.B.Mamba-based
+## Mamba-Based
 
 
 <table>
@@ -350,24 +333,6 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/944618542d80a63bbec16dfbd2bd689a-Paper-Conference.pdf">Mcvd-masked conditional video diffusion for prediction, generation, and interpolation</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
 </tbody>
 </table>
-
-
-## IV.VFI Challenges
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://www.sciencedirect.com/science/article/pii/0004370281900242?via%3Dihub">Determining optical flow</a></td><td align="center">Artificial intelligence</td><td align="center">1981</td></tr>
-</tbody>
-</table>
-
 
 ## V.A.Datasets
 
@@ -419,7 +384,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## V.A.Evaluation metrics
+## V.A.Evaluation Metrics
 
 
 <table>
@@ -478,7 +443,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.A.Event-based VFI
+## VI.A.Event-Based VFI
 
 
 <table>
@@ -603,226 +568,6 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Blurry_Video_Frame_Interpolation_CVPR_2020_paper.pdf">Blurry video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
 </tbody>
 </table>
-
-
-
-
-## VII.Future Research Directions
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2502.05695">Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-</tbody>
-</table>
-
-## Feature Extraction Network
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://lmb.informatik.uni-freiburg.de/Publications/2016/CABR16/cicek16miccai.pdf">3D U-Net: learning dense volumetric segmentation from sparse annotation</a></td><td align="center">MICCAI</td><td align="center">2016</td></tr>
-<tr><td align="left"><a href="https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28">U-net: Convolutional networks for biomedical image segmentation</a></td><td align="center">MICCAI</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1409.1556">Very deep convolutional networks for large-scale image recognition</a></td><td align="center">ICLR</td><td align="center">2015</td></tr>
-</tbody>
-</table>
-
-
-
-## VFI
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2211.14005">Efficient feature extraction for high-resolution video frame interpolation</a></td><td align="center">arXiv</td><td align="center">2022</td></tr>
-</tbody>
-</table>
-
-
-
-
-
-
-##
-Flow Network
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770672.pdf">Flowformer: A transformer architecture for optical flow</a></td><td align="center">ECCV</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GMFlow_Learning_Optical_Flow_via_Global_Matching_CVPR_2022_paper.pdf">Gmflow: Learning optical flow via global matching</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Learning_To_Estimate_Hidden_Motions_With_Global_Motion_Aggregation_ICCV_2021_paper.pdf">Learning to estimate hidden motions with global motion aggregation</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470392.pdf">Raft: Recurrent all-pairs field transforms for optical flow</a></td><td align="center">ECCV</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf">Occlusion aware unsupervised learning of optical flow</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_PWC-Net_CNNs_for_CVPR_2018_paper.pdf">Pwc-net: Cnns for optical flow using pyramid, warping, and cost volume</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Hui_LiteFlowNet_A_Lightweight_CVPR_2018_paper.pdf">Liteflownet: A lightweight convolutional neural network for optical flow estimation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Ilg_FlowNet_2.0_Evolution_CVPR_2017_paper.pdf">Flownet 2.0: Evolution of optical flow estimation with deep networks</a></td><td align="center">CVPR</td><td align="center">2017</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Ranjan_Optical_Flow_Estimation_CVPR_2017_paper.pdf">Optical flow estimation using a spatial pyramid network</a></td><td align="center">CVPR</td><td align="center">2017</td></tr>
-<tr><td align="left"><a href="https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf">Flownet: Learning optical flow with convolutional networks</a></td><td align="center">ICCV</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf">DeepFlow: Large displacement optical flow with deep matching</a></td><td align="center">ICCV</td><td align="center">2013</td></tr>
-</tbody>
-</table>
-
-
-
-
-## GAN
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://proceedings.nips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf">Diffusion models beat gans on image synthesis</a></td><td align="center">NeurIPS</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1406.2661">Generative adversarial networks</a></td><td align="center">Communications of the ACM</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1312.6114">Auto-encoding variational bayes</a></td><td align="center"></td><td align="center">2013</td></tr>
-</tbody>
-</table>
-
-
-
-## Diffusion Models
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_One-step_Diffusion_with_Distribution_Matching_Distillation_CVPR_2024_paper.pdf">One-step diffusion with distribution matching distillation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=duBCwjb68o">Latent consistency models: Synthesizing high-resolution images with few-step inference</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf">Align your latents: High-resolution video synthesis with latent diffusion models</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2311.15127">Stable video diffusion: Scaling latent video diffusion models to large datasets</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2303.01469">Consistency models</a></td><td align="center"></td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf">High-resolution image synthesis with latent diffusion models</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2204.03458">Video diffusion models</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=k7FuTOWMOc7">Elucidating the design space of diffusion-based generative models</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=TIdIXIpzhoI">Progressive distillation for fast sampling of diffusion models</a></td><td align="center">arXiv</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf">Denoising diffusion probabilistic models</a></td><td align="center">NeurIPS</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=St1giarCHLP">Denoising diffusion implicit models</a></td><td align="center">arXiv</td><td align="center">2020</td></tr>
-</tbody>
-</table>
-
-
-
-## Adapters
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2408.06070">Controlnext: Powerful and efficient control for image and video generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf">Adding conditional control to text-to-image diffusion models</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
-</tbody>
-</table>
-
-
-
-## T2V and I2V
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=vqniLmUDvj">Consisti2v: Enhancing visual consistency for image-to-video generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Animate_Anyone_Consistent_and_Controllable_Image-to-Video_Synthesis_for_Character_Animation_CVPR_2024_paper.pdf">Animate anyone: Consistent and controllable image-to-video synthesis for character animation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=LQzN6TRFg9">Cogvideox: Text-to-video diffusion models with an expert transformer</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2411.17440">Identity-Preserving Text-to-Video Generation by Frequency Decomposition</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3680528.3687614">Lumiere: A space-time diffusion model for video generation</a></td><td align="center">SIGGRAPH</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf">Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2311.04145">I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
-</tbody>
-</table>
-
-
-
-## All-in-One: Image
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2504.04869">Content-Aware Transformer for All-in-one Image Restoration</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ai_Multimodal_Prompt_Perceiver_Empower_Adaptiveness_Generalizability_and_Fidelity_for_All-in-One_CVPR_2024_paper.pdf">Multimodal prompt perceiver: Empower adaptiveness generalizability and fidelity for all-in-one image restoration</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.pdf">All-in-one image restoration for unknown corruption</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-</tbody>
-</table>
-
-
-
-## 4D
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2504.08366">In-2-4D: Inbetweening from Two Single-View Images to 4D Generation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Temporal_Interpolation_Is_All_You_Need_for_Dynamic_Neural_Radiance_CVPR_2023_paper.pdf">Temporal interpolation is all you need for dynamic neural radiance fields</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_NeuralPCI_Spatio-Temporal_Neural_Field_for_3D_Point_Cloud_Multi-Frame_Non-Linear_CVPR_2023_paper.pdf">Neuralpci: Spatio-temporal neural field for 3d point cloud multi-frame non-linear interpolation</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
-</tbody>
-</table>
-
 
 
 
