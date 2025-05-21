@@ -1,4 +1,3 @@
-````
 # Awesome-Video-Frame-Interpolation
 ### <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/icon2.png?raw=true" width="20" style="vertical-align: middle;"> AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation
 
@@ -973,4 +972,3 @@ These metrics evaluate spatiotemporal coherence across video sequences, importan
 - <a href="https://arxiv.org/pdf/2311.17982" target="_blank"><strong>VBench</strong></a>  
   Large-scale, no-reference benchmark for evaluating fidelity, coherence, and realism using semantic video representations.  
   📌 Ideal for reference-free evaluation.
-````
