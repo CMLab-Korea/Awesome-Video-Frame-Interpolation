@@ -1,3 +1,4 @@
+````
 # Awesome-Video-Frame-Interpolation
 ### <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/icon2.png?raw=true" width="20" style="vertical-align: middle;"> AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation
 
@@ -92,9 +93,9 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://lmb.informatik.uni-freiburg.de/Publications/2016/CABR16/cicek16miccai.pdf">3D U-Net: learning dense volumetric segmentation from sparse annotation</a></td><td align="center">Medical Image Computing and Computer-Assisted Intervention--MICCAI 2016: 19th International Conference, Athens, Greece, October 17-21, 2016, Proceedings, Part II 19</td><td align="center">2016</td></tr>
-<tr><td align="left"><a href="https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28">U-net: Convolutional networks for biomedical image segmentation</a></td><td align="center">Medical image computing and computer-assisted intervention--MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1409.1556">Very deep convolutional networks for large-scale image recognition</a></td><td align="center">arXiv</td><td align="center">2014</td></tr>
+<tr><td align="left"><a href="https://lmb.informatik.uni-freiburg.de/Publications/2016/CABR16/cicek16miccai.pdf">3D U-Net: learning dense volumetric segmentation from sparse annotation</a></td><td align="center">MICCAI</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28">U-net: Convolutional networks for biomedical image segmentation</a></td><td align="center">MICCAI</td><td align="center">2015</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1409.1556">Very deep convolutional networks for large-scale image recognition</a></td><td align="center">ICLR</td><td align="center">2015</td></tr>
 </tbody>
 </table>
 
@@ -132,12 +133,11 @@ We categorize recent VFI papers by methodology:
 <tbody>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.20218">Video Motion Graphs</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.01715">KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/10647865">Real-time video prediction with fast video interpolation model and prediction training</a></td><td align="center">2024 IEEE International Conference on Image Processing (ICIP)</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2024/papers/Huang_Scale-Adaptive_Feature_Aggregation_for_Efficient_Space-Time_Video_Super-Resolution_WACV_2024_paper.pdf">Scale-adaptive feature aggregation for efficient space-time video super-resolution</a></td><td align="center">Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/10647865">Real-time video prediction with fast video interpolation model and prediction training</a></td><td align="center">ICIP</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2024/papers/Huang_Scale-Adaptive_Feature_Aggregation_for_Efficient_Space-Time_Video_Super-Resolution_WACV_2024_paper.pdf">Scale-adaptive feature aggregation for efficient space-time video super-resolution</a></td><td align="center">WACV</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2410.04221">Tango: Co-speech gesture video reenactment with hierarchical audio motion embedding and diffusion interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11464711&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=en_US&hasTopBanner=true">Dynamic Framerate SlowFast Network for Improving Autonomous Driving Performance</a></td><td align="center">IEIE Transactions on Smart Processing \& Computing</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2210.00823">BVI-VFI: a video quality database for video frame interpolation</a></td><td align="center">IEEE TIP</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2209.14792">Make-a-video: Text-to-video generation without text-video data</a></td><td align="center">arXiv</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3633780">Neighbor correspondence matching for flow-based video frame synthesis</a></td><td align="center">Proceedings of the 30th ACM International Conference on Multimedia</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750231.pdf">A perceptual quality metric for video frame interpolation</a></td><td align="center">ECCV</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Neural_Scene_Flow_Fields_for_Space-Time_View_Synthesis_of_Dynamic_CVPR_2021_paper.pdf">Neural scene flow fields for space-time view synthesis of dynamic scenes</a></td><td align="center">CVPR</td><td align="center">2021</td></tr>
@@ -147,9 +147,9 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf">Depth-aware video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2019</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Chao-Yuan_Wu_Video_Compression_through_ECCV_2018_paper.pdf">Video compression through image interpolation</a></td><td align="center">ECCV</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf">Super slomo: High quality estimation of multiple intermediate frames for video interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1605.03557">View synthesis by appearance flow</a></td><td align="center">ECCV, Amsterdam, The Netherlands, October 11--14, 2016, Proceedings, Part IV 14</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1605.03557">View synthesis by appearance flow</a></td><td align="center">ECCV</td><td align="center">2016</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Flynn_DeepStereo_Learning_to_CVPR_2016_paper.pdf">Deepstereo: Learning to predict new views from the world's imagery</a></td><td align="center">CVPR</td><td align="center">2016</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/790301/">Prediction error as a quality metric for motion and stereo</a></td><td align="center">Proceedings of the Seventh IEEE International Conference on Computer Vision</td><td align="center">1999</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/790301/">Prediction error as a quality metric for motion and stereo</a></td><td align="center">ICCV</td><td align="center">1999</td></tr>
 </tbody>
 </table>
 
@@ -221,7 +221,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0925231219315747">Frame-GAN: Increasing the frame rate of gait videos with generative adversarial networks</a></td><td align="center">Neurocomputing</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/document/8451971">Generating realistic videos from keyframes with concatenated GANs</a></td><td align="center">IEEE on Circuits and Systems for Video Technology</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1711.06045">Frame interpolation with multi-scale deep loss functions and generative adversarial networks</a></td><td align="center">arXiv</td><td align="center">2017</td></tr>
-<tr><td align="left"><a href="http://vision.stanford.edu/teaching/cs231n/reports/2017/pdfs/317.pdf">Frame interpolation using generative adversarial networks</a></td><td align="center"></td><td align="center">2017</td></tr>
+<tr><td align="left"><a href="http://vision.stanford.edu/teaching/cs231n/reports/2017/pdfs/317.pdf">Frame interpolation using generative adversarial networks</a></td><td align="center"></td><td align="center">arXiv</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/892c3b1c6dccd52936e27cbd0ff683d6-Paper.pdf">Improved training of wasserstein gans</a></td><td align="center">NeurIPS</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1703.10717">Began: Boundary equilibrium generative adversarial networks</a></td><td align="center">arXiv</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1701.07875">Wasserstein generative adversarial networks</a></td><td align="center">ICML</td><td align="center">2017</td></tr>
@@ -273,15 +273,15 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2503.02316">Unified Arbitrary-Time Video Frame Interpolation and Prediction</a></td><td align="center">ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2503.02316">Unified Arbitrary-Time Video Frame Interpolation and Prediction</a></td><td align="center">ICASSP</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_IQ-VFI_Implicit_Quadratic_Motion_Estimation_for_Video_Frame_Interpolation_CVPR_2024_paper.pdf">IQ-VFI: implicit quadratic motion estimation for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_OCAI_Improving_Optical_Flow_Estimation_by_Occlusion_and_Consistency_Aware_CVPR_2024_paper.pdf">Ocai: Improving optical flow estimation by occlusion and consistency aware interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/7495fa446f10e9edef6e47b2d327596e-Paper-Conference.pdf">Generalizable implicit motion modeling for video frame interpolation</a></td><td align="center">NeurIPS</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Perception-Oriented_Video_Frame_Interpolation_via_Asymmetric_Blending_CVPR_2024_paper.pdf">Perception-oriented video frame interpolation via asymmetric blending</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04908.pdf">Clearer frames, anytime: Resolving velocity ambiguity in video frame interpolation</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2412.11365">BiM-VFI: directional Motion Field-Guided Frame Interpolation for Video with Non-uniform Motions</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2023/papers/Niklaus_Splatting-Based_Synthesis_for_Video_Frame_Interpolation_WACV_2023_paper.pdf">Splatting-based synthesis for video frame interpolation</a></td><td align="center">Proceedings of the IEEE/CVF winter conference on applications of computer vision</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2023/papers/Jin_Enhanced_Bi-Directional_Motion_Estimation_for_Video_Frame_Interpolation_WACV_2023_paper.pdf">Enhanced bi-directional motion estimation for video frame interpolation</a></td><td align="center">Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2023/papers/Niklaus_Splatting-Based_Synthesis_for_Video_Frame_Interpolation_WACV_2023_paper.pdf">Splatting-based synthesis for video frame interpolation</a></td><td align="center">WACV</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2023/papers/Jin_Enhanced_Bi-Directional_Motion_Estimation_for_Video_Frame_Interpolation_WACV_2023_paper.pdf">Enhanced bi-directional motion estimation for video frame interpolation</a></td><td align="center">WACV</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Park_BiFormer_Learning_Bilateral_Motion_Estimation_via_Bilateral_Transformer_for_4K_CVPR_2023_paper.pdf">Biformer: Learning bilateral motion estimation via bilateral transformer for 4k video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_A_Unified_Pyramid_Recurrent_Network_for_Video_Frame_Interpolation_CVPR_2023_paper.pdf">A unified pyramid recurrent network for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Li_AMT_All-Pairs_Multi-Field_Transforms_for_Efficient_Frame_Interpolation_CVPR_2023_paper.pdf">Amt: All-pairs multi-field transforms for efficient frame interpolation</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
@@ -293,9 +293,9 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_IFRNet_Intermediate_Feature_Refine_Network_for_Efficient_Frame_Interpolation_CVPR_2022_paper.pdf">Ifrnet: Intermediate feature refine network for efficient frame interpolation</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Sim_XVFI_eXtreme_Video_Frame_Interpolation_ICCV_2021_paper.pdf">Xvfi: extreme video frame interpolation</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Asymmetric_Bilateral_Motion_Estimation_for_Video_Frame_Interpolation_ICCV_2021_paper.pdf">Asymmetric bilateral motion estimation for video frame interpolation</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720103.pdf">All at once: Temporally adaptive multi-frame interpolation with advanced motion modeling</a></td><td align="center">ECCV, Glasgow, UK, August 23--28, 2020, Proceedings, Part XXVII 16</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720103.pdf">All at once: Temporally adaptive multi-frame interpolation with advanced motion modeling</a></td><td align="center">ECCV</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Niklaus_Softmax_Splatting_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf">Softmax splatting for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2009.04642">Enhanced quadratic video interpolation</a></td><td align="center">Computer Vision--ECCV 2020 Workshops: Glasgow, UK, August 23--28, 2020, Proceedings, Part IV 16</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2009.04642">Enhanced quadratic video interpolation</a></td><td align="center">ECCV Workshops</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700477.pdf">A flexible recurrent residual pyramid network for video frame interpolation</a></td><td align="center">ECCV</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33018794">Deep video frame interpolation using cyclic frame generation</a></td><td align="center">AAAI</td><td align="center">2019</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Zoom-In-To-Check_Boosting_Video_Interpolation_via_Instance-Level_Discrimination_CVPR_2019_paper.pdf">Zoom-in-to-check: Boosting video interpolation via instance-level discrimination</a></td><td align="center">CVPR</td><td align="center">2019</td></tr>
@@ -323,7 +323,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770672.pdf">Flowformer: A transformer architecture for optical flow</a></td><td align="center">ECCV</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GMFlow_Learning_Optical_Flow_via_Global_Matching_CVPR_2022_paper.pdf">Gmflow: Learning optical flow via global matching</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Learning_To_Estimate_Hidden_Motions_With_Global_Motion_Aggregation_ICCV_2021_paper.pdf">Learning to estimate hidden motions with global motion aggregation</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470392.pdf">Raft: Recurrent all-pairs field transforms for optical flow</a></td><td align="center">ECCV, Glasgow, UK, August 23--28, 2020, Proceedings, Part II 16</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470392.pdf">Raft: Recurrent all-pairs field transforms for optical flow</a></td><td align="center">ECCV</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf">Occlusion aware unsupervised learning of optical flow</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_PWC-Net_CNNs_for_CVPR_2018_paper.pdf">Pwc-net: Cnns for optical flow using pyramid, warping, and cost volume</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Hui_LiteFlowNet_A_Lightweight_CVPR_2018_paper.pdf">Liteflownet: A lightweight convolutional neural network for optical flow estimation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
@@ -348,11 +348,11 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2023/supplemental/Kalluri_FLAVR_Flow-Agnostic_Video_WACV_2023_supplemental.pdf">Flavr: Flow-agnostic video representations for fast frame interpolation</a></td><td align="center">Proceedings of the IEEE/CVF winter conference on applications of computer vision</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2023/supplemental/Kalluri_FLAVR_Flow-Agnostic_Video_WACV_2023_supplemental.pdf">Flavr: Flow-agnostic video representations for fast frame interpolation</a></td><td align="center">WACV</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Exploring_Motion_Ambiguity_and_Alignment_for_High-Quality_Video_Frame_Interpolation_CVPR_2023_paper.pdf">Exploring motion ambiguity and alignment for high-quality video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2104.01517">PDWN: Pyramid deformable warping network for video interpolation</a></td><td align="center">IEEE of Signal Processing</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2202.07731">Enhancing deformable convolution based video frame interpolation with coarse-to-fine 3D CNN</a></td><td align="center">2022 IEEE International Conference on Image Processing (ICIP)</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/9747182/">Video frame interpolation via local lightweight bidirectional encoding with channel attention cascade</a></td><td align="center">ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2202.07731">Enhancing deformable convolution based video frame interpolation with coarse-to-fine 3D CNN</a></td><td align="center">ICIP</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/9747182/">Video frame interpolation via local lightweight bidirectional encoding with channel attention cascade</a></td><td align="center">ICASSP</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2008.10680">Video frame interpolation via generalized deformable convolution</a></td><td align="center">IEEE on multimedia</td><td align="center">2021</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9501506">Multiple video frame interpolation via enhanced deformable separable convolution</a></td><td align="center">TPAMI</td><td align="center">2021</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_CDFI_Compression-Driven_Network_Design_for_Frame_Interpolation_CVPR_2021_paper.pdf">Cdfi: Compression-driven network design for frame interpolation</a></td><td align="center">CVPR</td><td align="center">2021</td></tr>
@@ -365,7 +365,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://arxiv.org/pdf/1708.01692">Video frame interpolation via adaptive separable convolution</a></td><td align="center">ICCV</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf">ImageNet classification with deep convolutional neural networks</a></td><td align="center">Communications of the ACM</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1703.06211">Deformable convolutional networks</a></td><td align="center">ICCV</td><td align="center">2017</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1603.06041">Learning image matching by simply watching video</a></td><td align="center">ECCV, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part VI 14</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1603.06041">Learning image matching by simply watching video</a></td><td align="center">ECCV</td><td align="center">2016</td></tr>
 </tbody>
 </table>
 
@@ -384,10 +384,10 @@ We categorize recent VFI papers by methodology:
 </thead>
 <tbody>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2404.11108">LADDER: An Efficient Framework for Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2021/papers/Niklaus_Revisiting_Adaptive_Convolutions_for_Video_Frame_Interpolation_WACV_2021_paper.pdf">Revisiting adaptive convolutions for video frame interpolation</a></td><td align="center">Proceedings of the IEEE/CVF winter conference on applications of computer vision</td><td align="center">2021</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/WACV2021/papers/Niklaus_Revisiting_Adaptive_Convolutions_for_Video_Frame_Interpolation_WACV_2021_paper.pdf">Revisiting adaptive convolutions for video frame interpolation</a></td><td align="center">WACV</td><td align="center">2021</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf">Featureflow: Robust video interpolation via structure-to-texture generation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_AdaCoF_Adaptive_Collaboration_of_Flows_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf">Adacof: Adaptive collaboration of flows for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590103.pdf">Bmbc: Bilateral motion estimation with bilateral cost volume for video interpolation</a></td><td align="center">ECCV, Glasgow, UK, August 23--28, 2020, Proceedings, Part XIV 16</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590103.pdf">Bmbc: Bilateral motion estimation with bilateral cost volume for video interpolation</a></td><td align="center">ECCV</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf/3ae72db22e8443112a8e7e61a943c8044053e135.pdf">Memc-net: Motion estimation and motion compensation driven neural network for video interpolation and enhancement</a></td><td align="center">TPAMI</td><td align="center">2019</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0130.pdf">Context-aware synthesis for video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
 </tbody>
@@ -412,7 +412,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://people.csail.mit.edu/billf/publications/Phase-Based_Video.pdf">Phase-based video motion processing</a></td><td align="center">TOG (ToG)</td><td align="center">2013</td></tr>
 <tr><td align="left"><a href="https://people.csail.mit.edu/pdidyk/projects/MultiviewConversion/MultiviewConversion.pdf">Joint view expansion and filtering for automultiscopic 3D displays</a></td><td align="center">TOG (TOG)</td><td align="center">2013</td></tr>
 <tr><td align="left"><a href="https://link.springer.com/content/pdf/10.1023/a:1026553619983.pdf">A parametric texture model based on joint statistics of complex wavelet coefficients</a></td><td align="center">International journal of computer vision</td><td align="center">2000</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=537667">The steerable pyramid: A flexible architecture for multi-scale derivative computation</a></td><td align="center">Proceedings., international conference on image processing</td><td align="center">1995</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=537667">The steerable pyramid: A flexible architecture for multi-scale derivative computation</a></td><td align="center">ICIP</td><td align="center">1995</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=119725">Shiftable multiscale transforms</a></td><td align="center">IEEE on Information Theory</td><td align="center">1992</td></tr>
 </tbody>
 </table>
@@ -480,10 +480,10 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2202.07727">A subjective quality study for video frame interpolation</a></td><td align="center">2022 IEEE International Conference on Image Processing (ICIP)</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2202.07727">A subjective quality study for video frame interpolation</a></td><td align="center">ICIP</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2106.15282">Cascaded diffusion models for high fidelity image generation</a></td><td align="center">JMLR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123096">Visual quality assessment for interpolated slow-motion videos based on a novel database</a></td><td align="center">2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7486599">Very deep convolutional neural network based image classification using small training sample size</a></td><td align="center">2015 3rd IAPR Asian conference on pattern recognition (ACPR)</td><td align="center">2015</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123096">Visual quality assessment for interpolated slow-motion videos based on a novel database</a></td><td align="center">QoMEX</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7486599">Very deep convolutional neural network based image classification using small training sample size</a></td><td align="center">ACPR</td><td align="center">2015</td></tr>
 </tbody>
 </table>
 
@@ -572,7 +572,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Animate_Anyone_Consistent_and_Controllable_Image-to-Video_Synthesis_for_Character_Animation_CVPR_2024_paper.pdf">Animate anyone: Consistent and controllable image-to-video synthesis for character animation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=LQzN6TRFg9">Cogvideox: Text-to-video diffusion models with an expert transformer</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2411.17440">Identity-Preserving Text-to-Video Generation by Frequency Decomposition</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3680528.3687614">Lumiere: A space-time diffusion model for video generation</a></td><td align="center">SIGGRAPH Asia 2024 Conference Papers</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3680528.3687614">Lumiere: A space-time diffusion model for video generation</a></td><td align="center">SIGGRAPH</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf">Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2311.04145">I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
 </tbody>
@@ -594,24 +594,24 @@ We categorize recent VFI papers by methodology:
 <tbody>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.20268">EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.22491">Coupled Video Frame Interpolation and Encoding with Hybrid Event Cameras for Low-Power High-Framerate Video</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2309.08891">V2ce: Video to continuous events simulator</a></td><td align="center">2024 IEEE International Conference on Robotics and Automation (ICRA)</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2309.08891">V2ce: Video to continuous events simulator</a></td><td align="center">ICRA</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video_Frame_Interpolation_via_Direct_Synthesis_with_the_Event-based_Reference_CVPR_2024_paper.pdf">Video frame interpolation via direct synthesis with the event-based reference</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11208.pdf">TimeLens-XL: Real-Time Event-Based Video Frame Interpolation with Large Motion</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2412.07761">Repurposing pre-trained video diffusion models for event-based video interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10067566">A 2.97 $\mu$m-pitch event-based vision sensor with shared pixel front-end circuitry and low-noise intensity readout mode</a></td><td align="center">2023 IEEE International Solid-State Circuits Conference (ISSCC)</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10067566">A 2.97 $\mu$m-pitch event-based vision sensor with shared pixel front-end circuitry and low-noise intensity readout mode</a></td><td align="center">ISSCC</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf">Event-based video frame interpolation with cross-modal asymmetric bidirectional motion fields</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
-<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612093">Event-guided frame interpolation and dynamic range expansion of single rolling shutter image</a></td><td align="center">Proceedings of the 31st ACM International Conference on Multimedia</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612093">Event-guided frame interpolation and dynamic range expansion of single rolling shutter image</a></td><td align="center">ACM MM</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Unifying_Motion_Deblurring_and_Frame_Interpolation_With_Events_CVPR_2022_paper.pdf">Unifying motion deblurring and frame interpolation with events</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2203.17191">Time lens++: Event-based frame interpolation with parametric non-linear flow and multi-scale fusion</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/He_TimeReplayer_Unlocking_the_Potential_of_Event_Cameras_for_Video_Interpolation_CVPR_2022_paper.pdf">Timereplayer: Unlocking the potential of event cameras for video interpolation</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670261.pdf">Video interpolation by event-driven anisotropic adjustment of optical flow</a></td><td align="center">ECCV</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf">Time lens: Event-based video frame interpolation</a></td><td align="center">CVPR</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1912.01584">Eventgan: Leveraging large scale image datasets for event cameras</a></td><td align="center">2021 IEEE international conference on computational photography (ICCP)</td><td align="center">2021</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1912.01584">Eventgan: Leveraging large scale image datasets for event cameras</a></td><td align="center">ICCP</td><td align="center">2021</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.pdf">Training weakly supervised video frame interpolation with events</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf">Learning event-driven video deblurring and interpolation</a></td><td align="center">ECCV, Glasgow, UK, August 23--28, 2020, Proceedings, Part VIII 16</td><td align="center">2020</td></tr>
+<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf">Learning event-driven video deblurring and interpolation</a></td><td align="center">ECCV</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/PBDL/Wang_Event-Driven_Video_Frame_Synthesis_ICCVW_2019_paper.pdf">Event-driven video frame synthesis</a></td><td align="center">ICCV Workshops</td><td align="center">2019</td></tr
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296630">PIX2NVS: Parameterized conversion of pixel-domain video frames to neuromorphic vision streams</a></td><td align="center">2017 IEEE International Conference on Image Processing (ICIP)</td><td align="center">2017</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7862386">Towards a framework for end-to-end control of a simulated vehicle with spiking neural networks</a></td><td align="center">2016 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)</td><td align="center">2016</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296630">PIX2NVS: Parameterized conversion of pixel-domain video frames to neuromorphic vision streams</a></td><td align="center">ICIP</td><td align="center">2017</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7862386">Towards a framework for end-to-end control of a simulated vehicle with spiking neural networks</a></td><td align="center">SIMPAR</td><td align="center">2016</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4444573">A 128 $\times$ 128 120 dB 15 $\mu$ s latency asynchronous temporal contrast vision sensor</a></td><td align="center">IEEE of solid-state circuits</td><td align="center">2008</td></tr>
 </tbody>
 </table>
@@ -654,7 +654,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://arxiv.org/pdf/2410.11838">High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion</a></td><td align="center">AAAI</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2501.08295">LayerAnimate: Layer-specific control for animation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06298.pdf">Dynamicrafter: Animating open-domain images with video diffusion priors</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2405.17933">Tooncrafter: Generative cartoon interpolation</a></td><td align="center">TOG (TOG)</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2405.17933">Tooncrafter: Generative cartoon interpolation</a></td><td align="center">TOG</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=Lp40Z40N07">Framer: Interactive frame interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2412.14173">Anidoc: Animation creation made easier</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf">Deep sketch-guided cartoon video inbetweening</a></td><td align="center">ICCV</td><td align="center">2023</td></tr>
@@ -680,7 +680,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Temporal_Modulation_Network_for_Controllable_Space-Time_Video_Super-Resolution_CVPR_2021_paper.pdf">Temporal modulation network for controllable space-time video super-resolution</a></td><td align="center">CVPR</td><td align="center">2021</td></tr>
 <tr><td align="left"><a href="https://cdn.aaai.org/ojs/6788/6788-13-10017-1-10-20200522.pdf">Fisr: Deep joint frame interpolation and super-resolution with a multi-scale temporal loss</a></td><td align="center">AAAI</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf">Space-time-aware multi-resolution video enhancement</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://www.cvl.iis.u-tokyo.ac.jp/class2013/2013w/paper/time-varyingImageProcessing/Increasing_Space-Time_Resolution_in_Video_(ECCV02).pdf">Increasing space-time resolution in video</a></td><td align="center">Computer Vision—ECCV 2002: 7th ECCV Copenhagen, Denmark, May 28--31, 2002 Proceedings, Part I 7</td><td align="center">2002</td></tr>
+<tr><td align="left"><a href="https://www.cvl.iis.u-tokyo.ac.jp/class2013/2013w/paper/time-varyingImageProcessing/Increasing_Space-Time_Resolution_in_Video_(ECCV02).pdf">Increasing space-time resolution in video</a></td><td align="center">ECCV</td><td align="center">2002</td></tr>
 </tbody>
 </table>
 
@@ -725,7 +725,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://arxiv.org/pdf/1711.07837">Unflow: Unsupervised learning of optical flow with a bidirectional census loss</a></td><td align="center">AAAI</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1707.05776">Optimizing the latent space of generative networks</a></td><td align="center">arXiv</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1511.05440">Deep multi-scale video prediction beyond mean square error</a></td><td align="center">arXiv</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=413553">Two deterministic half-quadratic regularization algorithms for computed imaging</a></td><td align="center">Proceedings of 1st international conference on image processing</td><td align="center">1994</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=413553">Two deterministic half-quadratic regularization algorithms for computed imaging</a></td><td align="center">ICIP</td><td align="center">1994</td></tr>
 <tr><td align="left"><a href="https://www.cs.cornell.edu/~rdz/Papers/ZW-ECCV94.pdf">Non-parametric local transforms for computing visual correspondence</a></td><td align="center">ECCV</td><td align="center">1994</td></tr>
 </tbody>
 </table>
@@ -753,7 +753,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://arxiv.org/pdf/1212.0402">UCF101: A dataset of 101 human actions classes from videos in the wild</a></td><td align="center">arXiv</td><td align="center">2012</td></tr>
 <tr><td align="left"><a href="https://www.cvlibs.net/publications/Geiger2012CVPR.pdf">Are we ready for autonomous driving? the kitti vision benchmark suite</a></td><td align="center">CVPR</td><td align="center">2012</td></tr>
 <tr><td align="left"><a href="https://files.is.tue.mpg.de/black/papers/ButlerECCV2012.pdf">A naturalistic open source movie for optical flow evaluation</a></td><td align="center">ECCV</td><td align="center">2012</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4408903">A database and evaluation methodology for optical flow</a></td><td align="center">Int. J. Comput. Vis.</td><td align="center">2011</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4408903">A database and evaluation methodology for optical flow</a></td><td align="center">International Journal of Computer Vision</td><td align="center">2011</td></tr>
 <tr><td align="left"><a href="https://media.xiph.org/video/derf/">Xiph.org video test media (derf's collection)</a></td><td align="center"></td><td align="center">1994</td></tr>
 </tbody>
 </table>
@@ -774,14 +774,14 @@ We categorize recent VFI papers by methodology:
 <tbody>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf">Vbench: Comprehensive benchmark suite for video generative models</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf/798d301795f1200b0ee8c8ea5de15169a1da49d2.pdf">Fr$\backslash$'echet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2207.08119">FloLPIPS: A bespoke video quality metric for frame interpolation</a></td><td align="center">2022 Picture Coding Symposium (PCS)</td><td align="center">2022</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2207.08119">FloLPIPS: A bespoke video quality metric for frame interpolation</a></td><td align="center">PCS</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9298952">Image quality assessment: Unifying structure and texture similarity</a></td><td align="center">TPAMI</td><td align="center">2020</td></tr>
-<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3343031.3351028">Quality assessment of in-the-wild videos</a></td><td align="center">Proceedings of the 27th ACM international conference on multimedia</td><td align="center">2019</td></tr>
+<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3343031.3351028">Quality assessment of in-the-wild videos</a></td><td align="center">ACM MM</td><td align="center">2019</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf">The unreasonable effectiveness of deep features as a perceptual metric</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1812.01717">Towards accurate generative models of video: A new metric \& challenges</a></td><td align="center">arXiv</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf">Gans trained by a two time-scale update rule converge to a local nash equilibrium</a></td><td align="center">NeurIPS</td><td align="center">2017</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6353522">Making a “completely blind” image quality analyzer</a></td><td align="center">IEEE Signal processing letters</td><td align="center">2012</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395">Image quality assessment: from error visibility to structural similarity</a></td><td align="center">IEEE Trans. Image Process.</td><td align="center">2004</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395">Image quality assessment: from error visibility to structural similarity</a></td><td align="center">IEEE TIP</td><td align="center">2004</td></tr>
 </tbody>
 </table>
 
@@ -973,3 +973,4 @@ These metrics evaluate spatiotemporal coherence across video sequences, importan
 - <a href="https://arxiv.org/pdf/2311.17982" target="_blank"><strong>VBench</strong></a>  
   Large-scale, no-reference benchmark for evaluating fidelity, coherence, and realism using semantic video representations.  
   📌 Ideal for reference-free evaluation.
+````
