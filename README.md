@@ -939,7 +939,7 @@ We categorize recent VFI papers by methodology:
 We include commonly used datasets for evaluating VFI performance.  
 Datasets are categorized into **Triplet** and **Multi-frame** types depending on the supervision format.
 
----
+
 
 ### 🔹 Triplet Datasets
 
@@ -990,6 +990,7 @@ Multi-frame datasets enable dense temporal supervision and are commonly used in 
 ## 📈 Evaluation Metrics
 
 This section summarizes commonly used metrics for evaluating the quality of video frame interpolation (VFI) results.
+
 
 ### 📷 Image-level Metrics
 
