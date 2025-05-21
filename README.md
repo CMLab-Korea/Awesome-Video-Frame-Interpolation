@@ -680,7 +680,6 @@ These metrics evaluate spatiotemporal coherence across video sequences, importan
 
 - <a href="https://dl.acm.org/doi/pdf/10.1145/3343031.3351028" target="_blank"><strong>VSFA (Video Spatial-Feature Aggregation)</strong></a>  
   No-reference model estimating perceptual quality from human-labeled videos using deep recurrent features.  
-  📌 Lower score = better perceived video quality.
 
 - <a href="https://arxiv.org/pdf/1811.09393" target="_blank"><strong>tOF (temporal Optical Flow consistency)</strong></a>  
   Measures how consistent optical flow is across frames.  
