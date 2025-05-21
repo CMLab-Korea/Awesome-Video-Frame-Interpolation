@@ -108,7 +108,7 @@ We categorize recent VFI papers by methodology:
 
 ## II.B.Deep learning-Based
 
-### Kernel-Based
+### - Kernel-Based
 
 
 <table>
