@@ -185,7 +185,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## Kernel- and Flow-based Combined
+### Kernel- and Flow-based Combined
 
 
 <table>
@@ -207,7 +207,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## Phase-based
+### Phase-based
 
 
 <table>
@@ -229,7 +229,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## GAN-based
+### GAN-based
 
 
 <table>
@@ -257,7 +257,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## Transformer-based
+### Transformer-based
 
 
 <table>
@@ -282,7 +282,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## Mamba-based
+### Mamba-based
 
 
 <table>
