@@ -80,7 +80,7 @@ You can find the preprint of our survey here:
 We categorize recent VFI papers by methodology:  
 ![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
 
-## II.A.Motion Compensation-Based
+## II.A.Motion Compensation-based
 
 
 <table>
@@ -106,7 +106,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.Deep learning-Based
+## II.B.Deep learning-based
 
 
 <table>
@@ -125,7 +125,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Kernel-Based
+## II.B.Kernel-based
 
 
 <table>
@@ -159,7 +159,7 @@ We categorize recent VFI papers by methodology:
 </table>
 
 
-## II.B.Flow-Based
+## II.B.Flow-based
 
 
 <table>
@@ -226,7 +226,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Phase-Based
+## II.B.Phase-based
 
 
 <table>
@@ -248,7 +248,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.GAN-Based
+## II.B.GAN-based
 
 
 <table>
@@ -276,7 +276,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B.Transformer-Based
+## II.B.Transformer-based
 
 
 <table>
@@ -301,7 +301,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## II.B.Mamba-Based
+## II.B.Mamba-based
 
 
 <table>
@@ -419,7 +419,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## V.A.Evaluation Metrics
+## V.A.Evaluation metrics
 
 
 <table>
@@ -478,7 +478,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.A.Event-Based VFI
+## VI.A.Event-based VFI
 
 
 <table>
