@@ -299,7 +299,7 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://arxiv.org/pdf/2411.15269">MambaIRv2: Attentive State Space Restoration</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/c1e9db5e1b04322963af91ac0c943568-Paper-Conference.pdf">VFIMamba: Video Frame Interpolation with State Space Models</a></td><td align="center">NeurIPS</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02740.pdf">MambaIR: A Simple Baseline for Image Restoration with State-space Model</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=tEYskw1VY2">Mamba: Linear-time Sequence Modeling with Selective State Spaces</a></td><td align="center">arXiv</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=tEYskw1VY2">Mamba: Linear-time Sequence Modeling with Selective State Spaces</a></td><td align="center">COLM</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=uYLFoz1vlAC">Efficiently Modeling Long Sequences with Structured State Spaces</a></td><td align="center">ICLR</td><td align="center">2021</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/1511.06464">Unitary Evolution Recurrent Neural Networks</a></td><td align="center">ICML</td><td align="center">2016</td></tr>
 </tbody>
@@ -318,7 +318,7 @@ We categorize recent VFI papers by methodology:
 </thead>
 <tbody>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2501.03699">Motion-aware Generative Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2503.15831">EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2503.15831">EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2504.00380">Hierarchical Flow Diffusion for Efficient Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2408.15239">Generative Inbetweening: Adapting Image-to-video Models for Keyframe Interpolation</a></td><td align="center">ICLR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2412.11755">Generative Inbetweening Through Frame-wise Conditions-driven Video Generation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
