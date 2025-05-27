@@ -187,8 +187,6 @@ We categorize recent VFI papers by methodology:
 </table>
 
 ### Kernel- and Flow-based Combined
-
-
 <table>
 <thead>
 <tr>
@@ -209,8 +207,6 @@ We categorize recent VFI papers by methodology:
 </table>
 
 ### Phase-based
-
-
 <table>
 <thead>
 <tr>
@@ -222,11 +218,6 @@ We categorize recent VFI papers by methodology:
 <tbody>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Meyer_PhaseNet_for_Video_CVPR_2018_paper.pdf">PhaseNet for Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2018</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_cvpr_2015/papers/Meyer_Phase-Based_Frame_Interpolation_2015_CVPR_paper.pdf">Phase-based Frame Interpolation for Video</a></td><td align="center">CVPR</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="https://people.csail.mit.edu/billf/publications/Phase-Based_Video.pdf">Phase-based Video Motion Processing</a></td><td align="center">TOG (ToG)</td><td align="center">2013</td></tr>
-<tr><td align="left"><a href="https://people.csail.mit.edu/pdidyk/projects/MultiviewConversion/MultiviewConversion.pdf">Joint View Expansion and Filtering for Automultiscopic 3d Displays</a></td><td align="center">TOG (TOG)</td><td align="center">2013</td></tr>
-<tr><td align="left"><a href="https://link.springer.com/content/pdf/10.1023/a:1026553619983.pdf">A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients</a></td><td align="center">International journal of computer vision</td><td align="center">2000</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=537667">The Steerable Pyramid: A Flexible Architecture for Multi-scale Derivative Computation</a></td><td align="center">ICIP</td><td align="center">1995</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=119725">Shiftable Multiscale Transforms</a></td><td align="center">IEEE on Information Theory</td><td align="center">1992</td></tr>
 </tbody>
 </table>
 
