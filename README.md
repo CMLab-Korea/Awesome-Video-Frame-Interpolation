@@ -74,12 +74,16 @@ If you find this survey helpful, please consider citing us:
 You can find the preprint of our survey here:  
 📄 [arXiv:your-paper-id](https://arxiv.org/abs/your-paper-id)
 
+
+The overview of our survey paper:
+![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
+
 ---
 
 ## 📄 Paper List
 
 We categorize recent VFI papers by methodology:  
-![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
+
 
 ## II.A. Motion Compensation-based
 
