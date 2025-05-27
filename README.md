@@ -250,8 +250,6 @@ We categorize recent VFI papers by methodology:
 </table>
 
 ### Transformer-based
-
-
 <table>
 <thead>
 <tr>
@@ -266,17 +264,12 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://arxiv.org/pdf/2207.09048">TTVFI: Learning Trajectory-aware Transformer for Video Frame Interpolation</a></td><td align="center">IEEE TIP</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Video_Frame_Interpolation_With_Transformer_CVPR_2022_paper.pdf">Video Frame Interpolation with Transformer</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Video_Frame_Interpolation_Transformer_CVPR_2022_paper.pdf">Video Frame Interpolation Transformer</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf">Restormer: Efficient Transformer for High-resolution Image Restoration</a></td><td align="center">CVPR</td><td align="center">2022</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf">Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows</a></td><td align="center">ICCV</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">Attention Is All You Need</a></td><td align="center">NeurIPS</td><td align="center">2017</td></tr>
 </tbody>
 </table>
 
 
 
 ### Mamba-based
-
-
 <table>
 <thead>
 <tr>
@@ -286,19 +279,11 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2503.07046">MambaFlow: A Mamba-centric Architecture for End-to-end Optical Flow Estimation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2411.15269">MambaIRv2: Attentive State Space Restoration</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/c1e9db5e1b04322963af91ac0c943568-Paper-Conference.pdf">VFIMamba: Video Frame Interpolation with State Space Models</a></td><td align="center">NeurIPS</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02740.pdf">MambaIR: A Simple Baseline for Image Restoration with State-space Model</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=tEYskw1VY2">Mamba: Linear-time Sequence Modeling with Selective State Spaces</a></td><td align="center">COLM</td><td align="center">2024</td></tr>
-<tr><td align="left"><a href="https://openreview.net/pdf?id=uYLFoz1vlAC">Efficiently Modeling Long Sequences with Structured State Spaces</a></td><td align="center">ICLR</td><td align="center">2021</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1511.06464">Unitary Evolution Recurrent Neural Networks</a></td><td align="center">ICML</td><td align="center">2016</td></tr>
 </tbody>
 </table>
 
 ## II.C. Diffusion Model-based
-
-
 <table>
 <thead>
 <tr>
@@ -325,8 +310,6 @@ We categorize recent VFI papers by methodology:
 </table>
 
 ## V.A. Datasets
-
-
 <table>
 <thead>
 <tr>
