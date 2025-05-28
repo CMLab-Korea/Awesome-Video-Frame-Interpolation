@@ -70,7 +70,7 @@ You can find the preprint of our survey here:
 
 
 The overview of our survey paper:
-![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
+![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/_overview.png)
 
 ---
 
