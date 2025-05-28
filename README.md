@@ -26,13 +26,7 @@ This repository provides a curated collection of papers, benchmarks, and resourc
 
 ## 📘 Abstract
 
-Video Frame Interpolation (VFI) aims to synthesize intermediate frames between given input frames and has advanced significantly from traditional motion-compensation to deep learning-based methods.
-We comprehensively categorize VFI approaches—kernel-based, flow-based, attention-based, Transformer-based, Mamba-based, and diffusion-based—highlighting their motion representations and core architectures.
-We further formalize training objectives into Center-Time Frame Interpolation (CTFI) and Arbitrary-Time Frame Interpolation (ATFI), offering a unified perspective across learning paradigms.
-This survey identifies key challenges such as large motion, occlusion, lighting changes, and non-linear motion, and reviews how each method addresses them.
-We also examine practical components like datasets, loss functions, and evaluation metrics used across the literature.
-Additionally, we explore extended applications including event-guided VFI, joint VFI with super-resolution or deblurring, and domain-specific uses like animation or medical imaging.
-Our study offers a consolidated reference point and future directions for researchers in the field of video frame interpolation.
+Video Frame Interpolation (VFI) is a fundamental Low-Level Vision (LLV) task that synthesizes intermediate frames between existing ones while maintaining spatial and temporal coherence. VFI techniques have evolved from classical motion compensation-based approach to deep learning-based approach, including kernel-, flow-, hybrid-, phase-, GAN-, Transformer-, Mamba-, and more recently diffusion model-based approach. We introduce AceVFI, the most comprehensive survey on VFI to date, covering over 250+ papers across these approaches. We systematically organize and describe VFI methodologies, detailing the core principles, design assumptions, and technical characteristics of each approach. We categorize the learning paradigm of VFI methods namely, Center-Time Frame Interpolation (CTFI) and Arbitrary-Time Frame Interpolation (ATFI). We analyze key challenges of VFI such as large motion, occlusion, lighting variation, and non-linear motion. In addition, we review standard datasets, loss functions, evaluation metrics. We examine applications of VFI including event-based, cartoon, medical image VFI and joint VFI with other LLV tasks. We conclude by outlining promising future research directions to support continued progress in the field. This survey aims to serve as a unified reference for both newcomers and experts seeking a deep understanding of modern VFI landscapes.
 
 
 ---
@@ -50,8 +44,8 @@ Our study offers a consolidated reference point and future directions for resear
 
 ## 📣 News
 
-- 📌 2025-05-01: Paper released to ArXiv.
-- 🚀 2025-03-15: Repository initialized.
+- 📌 2025-06: Paper released to ArXiv.
+- 🚀 2025-05: Repository initialized.
 
 ---
 
@@ -63,7 +57,7 @@ If you find this survey helpful, please consider citing us:
 @article{Kye2025AceVFI,
   title={🂡 AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
   author={Kye, Dahyeon and Roh, Changhyun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
-  journal={arXiv preprint arXiv:your-paper-id},
+  journal={arXiv preprint arXiv:paper-id},
   year={2025}
 }
 ```
@@ -72,7 +66,7 @@ If you find this survey helpful, please consider citing us:
 ## 🔍 Survey Paper
 
 You can find the preprint of our survey here:  
-📄 [arXiv:your-paper-id](https://arxiv.org/abs/your-paper-id)
+📄 [arXiv:paper-id](https://arxiv.org/abs/paper-id)
 
 
 The overview of our survey paper:
