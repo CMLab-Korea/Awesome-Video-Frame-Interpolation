@@ -79,7 +79,7 @@ The overview of our survey paper:
 We categorize recent VFI papers by methodology:  
 
 
-## II.A. Motion Compensation-based
+## 2.1 Motion Compensation-based
 
 
 <table>
@@ -105,9 +105,9 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.B. Deep learning-based
+## 2.2 Deep Learning-based
 
-### Kernel-based
+### 2.2.1 Kernel-based
 
 
 <table>
@@ -141,7 +141,7 @@ We categorize recent VFI papers by methodology:
 </table>
 
 
-### Flow-based
+### 2.2.2 Flow-based
 <table>
 <thead>
 <tr>
@@ -184,7 +184,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-### Kernel- and Flow-based Combined
+### 2.2.3 Kernel- and Flow-based Combined
 <table>
 <thead>
 <tr>
@@ -204,7 +204,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-### Phase-based
+### 2.2.4 Phase-based
 <table>
 <thead>
 <tr>
@@ -219,7 +219,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-### GAN-based
+### 2.2.5 GAN-based
 
 
 <table>
@@ -247,7 +247,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-### Transformer-based
+### 2.2.6 Transformer-based
 <table>
 <thead>
 <tr>
@@ -267,7 +267,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-### Mamba-based
+### 2.2.7 Mamba-based
 <table>
 <thead>
 <tr>
@@ -281,7 +281,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## II.C. Diffusion Model-based
+## 2.3 Diffusion Model-based
 <table>
 <thead>
 <tr>
@@ -307,7 +307,34 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## V.A. Datasets
+
+
+## 3.4 Loss Functions
+
+
+<table>
+<thead>
+<tr>
+<th align="left">Title</th>
+<th align="center">Publication</th>
+<th align="center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1711.07837">UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss</a></td><td align="center">AAAI</td><td align="center">2018</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1707.05776">Optimizing the Latent Space of Generative Networks</a></td><td align="center">ICLR</td><td align="center">2018</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/1511.05440">Deep Multi-scale Video Prediction Beyond Mean Square Error</a></td><td align="center">ICLR</td><td align="center">2015</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=413553">Two Deterministic Half-quadratic Regularization Algorithms for Computed Imaging</a></td><td align="center">ICIP</td><td align="center">1994</td></tr>
+<tr><td align="left"><a href="https://www.cs.cornell.edu/~rdz/Papers/ZW-ECCV94.pdf">Non-parametric Local Transforms for Computing Visual Correspondence</a></td><td align="center">ECCV</td><td align="center">1994</td></tr>
+</tbody>
+</table>
+
+
+
+
+## 5.1 Datasets
+
+
 <table>
 <thead>
 <tr>
@@ -332,30 +359,7 @@ We categorize recent VFI papers by methodology:
 </table>
 
 
-## V.A. Loss Functions
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1711.07837">UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss</a></td><td align="center">AAAI</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1707.05776">Optimizing the Latent Space of Generative Networks</a></td><td align="center">ICLR</td><td align="center">2018</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/1511.05440">Deep Multi-scale Video Prediction Beyond Mean Square Error</a></td><td align="center">ICLR</td><td align="center">2015</td></tr>
-<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=413553">Two Deterministic Half-quadratic Regularization Algorithms for Computed Imaging</a></td><td align="center">ICIP</td><td align="center">1994</td></tr>
-<tr><td align="left"><a href="https://www.cs.cornell.edu/~rdz/Papers/ZW-ECCV94.pdf">Non-parametric Local Transforms for Computing Visual Correspondence</a></td><td align="center">ECCV</td><td align="center">1994</td></tr>
-</tbody>
-</table>
-
-
-
-
-## V.A. Evaluation Metrics
+## 5.3 Evaluation Metrics
 
 
 <table>
@@ -380,7 +384,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI. Applications
+## 6. Applications
 
 
 <table>
@@ -414,7 +418,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.A. Event-Based VFI
+## 6.1 Event-based VFI
 
 
 <table>
@@ -450,7 +454,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.B. Cartoon VFI
+## 6.2 Cartoon VFI
 
 
 <table>
@@ -476,7 +480,7 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
-## VI.C. Medical Image VFI
+## 6.3 Medical Image VFI
 
 
 <table>
@@ -496,7 +500,7 @@ We categorize recent VFI papers by methodology:
 
 
 
-## VI.D. Joint VFI: SR
+## 6.4 Joint Task 
 
 
 <table>
@@ -513,23 +517,6 @@ We categorize recent VFI papers by methodology:
 <tr><td align="left"><a href="https://cdn.aaai.org/ojs/6788/6788-13-10017-1-10-20200522.pdf">FISR: Deep Joint Frame Interpolation and Super-resolution with a Multi-scale Temporal Loss</a></td><td align="center">AAAI</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf">Space-time-aware Multi-resolution Video Enhancement</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
 <tr><td align="left"><a href="https://www.cvl.iis.u-tokyo.ac.jp/class2013/2013w/paper/time-varyingImageProcessing/Increasing_Space-Time_Resolution_in_Video_(ECCV02).pdf">Increasing Space-time Resolution in Video</a></td><td align="center">ECCV</td><td align="center">2002</td></tr>
-</tbody>
-</table>
-
-
-
-## VI.D. Joint VFI: Deblur
-
-
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Latency_Correction_for_Event-guided_Deblurring_and_Frame_Interpolation_CVPR_2024_paper.pdf">Latency Correction for Event-guided Deblurring and Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Joint_Video_Multi-Frame_Interpolation_and_Deblurring_Under_Unknown_Exposure_Time_CVPR_2023_paper.pdf">Joint Video Multi-frame Interpolation and Deblurring Under Unknown Exposure Time</a></td><td align="center">CVPR</td><td align="center">2023</td></tr>
 <tr><td align="left"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790588.pdf">Animation From Blur: Multi-modal Blur Decomposition with Motion Guidance</a></td><td align="center">ECCV</td><td align="center">2022</td></tr>
