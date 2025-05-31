@@ -548,19 +548,17 @@ We categorize recent VFI papers by methodology:
 We include commonly used datasets for evaluating VFI performance.  
 Datasets are categorized into **Triplet** and **Multi-frame** types depending on the supervision format.
 
-
-
 ### 🔹 Triplet Datasets
 
 Early learning-based VFI approaches primarily rely on triplet datasets, where two input frames are used to predict the temporally centered GT frame.
 
 | Dataset | Venue | Type | Resolution | Split | #Videos / #Triplets | URL |
 |---------|--------|------|-------------|--------|----------------------|-----|
-| [Middlebury](https://vision.middlebury.edu/flow/data/) | IJCV'11 | 🟦 T | ≤ 640×480 (VGA) | train / test | - / 12 | 🔗 |
-| [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) | CRCV'12 | 🟦 T | 256×256 | train / test | - / 379 | 🔗 |
-| [Vimeo90K](http://toflow.csail.mit.edu/) | IJCV'19 | 🟦 T | 448×256 | train / test | 51,312 / 3,782 | 🔗 |
-| [SNU-FILM](https://myungsub.github.io/CAIN/) | AAAI'20 | 🟦 T | 384–1280 × 368–720 (HD) | train / test | - / 1,240 | 🔗 |
-| [ATD-12K](https://github.com/lisiyao21/AnimeInterp) | CVPR'21 | 🟦 T | 480×270 | train / test | 10,000 / 2,000 | 🔗 |
+| Middlebury | IJCV'11 | 🔹 T | ≤ 640×480 (VGA) | train / test | - / 12 | [🔗](https://vision.middlebury.edu/flow/data/) |
+| UCF101 | CRCV'12 | 🔹 T | 256×256 | train / test | - / 379 | [🔗](https://www.crcv.ucf.edu/data/UCF101.php) |
+| Vimeo90K | IJCV'19 | 🔹 T | 448×256 | train / test | 51,312 / 3,782 | [🔗](http://toflow.csail.mit.edu/) |
+| SNU-FILM | AAAI'20 | 🔹 T | 384–1280 × 368–720 (HD) | train / test | - / 1,240 | [🔗](https://myungsub.github.io/CAIN/) |
+| ATD-12K | CVPR'21 | 🔹 T | 480×270 | train / test | 10,000 / 2,000 | [🔗](https://github.com/lisiyao21/AnimeInterp) |
 
 ---
 
@@ -570,18 +568,18 @@ Multi-frame datasets enable dense temporal supervision and are commonly used in 
 
 | Dataset | Venue | Type | Resolution | Split | #Videos / #Triplets | URL |
 |---------|--------|------|-------------|--------|----------------------|-----|
-| [Xiph](https://media.xiph.org/video/derf/) | - | 🟫 M | 3840×2160 (4K) | train / test | - / 8 | 🔗 |
-| [KITTI](http://www.cvlibs.net/datasets/kitti/) | CVPR'12 | 🟫 M | 1242×375 | train / test | 194 / 195 | 🔗 |
-| [DAVIS](https://davischallenge.org/) | CVPR'16 | 🟫 M | 1920×1080 | train / test | 30 / 20 | 🔗 |
-| [HD](https://media.xiph.org/video/derf/) | TPAMI'19 | 🟫 M | 1280×544 | train / test | - / - | 🔗 |
-| [Sintel](http://sintel.is.tue.mpg.de/) | ECCV'12 | 🟫 M | 1024×436 | train / test | 23 / 11 | 🔗 |
-| [Adobe240](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/) | CVPR'17 | 🟫 M | 1280×720 (HD) | train / test | - / 112 | 🔗 |
-| [GOPRO](https://seungjunnah.github.io/Datasets/gopro.html) | CVPR'17 | 🟫 M | 1280×720 (HD) | train / test | 2,103 / 1,111 | 🔗 |
-| [Youtube240](https://jianghz.me/projects/superslomo/) | CVPR'18 | 🟫 M | 1280×720 (HD) | train / test | - / 1,014 | 🔗 |
-| [X4K1000FPS](https://github.com/JihyongOh/XVFI) | ICCV'21 | 🟫 M | 3840×1260 (4K) | train / test | 4,408 / 15 | 🔗 |
-| [WebVid-10M](https://github.com/m-bain/webvid) | ICCV'21 | 🟫 M | various | train / test | 10M / - | 🔗 |
-| [LAVIB](https://alexandrosstergiou.github.io/datasets/LAVIB) | NeurIPS'24 | 🟫 M | 3840×1260 (4K) | train / test | 229,989 / 53,494 | 🔗 |
-| [OpenVid](https://github.com/NJU-PCALab/OpenVid-1M) | ICLR'25 | 🟫 M | 1920×1080 (FHD) | train / test | 1M / - | 🔗 |
+| Xiph | - | 🔸 M | 3840×2160 (4K) | train / test | - / 8 | [🔗](https://media.xiph.org/video/derf/) |
+| KITTI | CVPR'12 | 🔸 M | 1242×375 | train / test | 194 / 195 | [🔗](http://www.cvlibs.net/datasets/kitti/) |
+| DAVIS | CVPR'16 | 🔸 M | 1920×1080 | train / test | 30 / 20 | [🔗](https://davischallenge.org/) |
+| HD | TPAMI'19 | 🔸 M | 1280×544 | train / test | - / - | [🔗](https://media.xiph.org/video/derf/) |
+| Sintel | ECCV'12 | 🔸 M | 1024×436 | train / test | 23 / 11 | [🔗](http://sintel.is.tue.mpg.de/) |
+| Adobe240 | CVPR'17 | 🔸 M | 1280×720 (HD) | train / test | - / 112 | [🔗](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/) |
+| GOPRO | CVPR'17 | 🔸 M | 1280×720 (HD) | train / test | 2,103 / 1,111 | [🔗](https://seungjunnah.github.io/Datasets/gopro.html) |
+| Youtube240 | CVPR'18 | 🔸 M | 1280×720 (HD) | train / test | - / 1,014 | [🔗](https://jianghz.me/projects/superslomo/) |
+| X4K1000FPS | ICCV'21 | 🔸 M | 3840×1260 (4K) | train / test | 4,408 / 15 | [🔗](https://github.com/JihyongOh/XVFI) |
+| WebVid-10M | ICCV'21 | 🔸 M | various | train / test | 10M / - | [🔗](https://github.com/m-bain/webvid) |
+| LAVIB | NeurIPS'24 | 🔸 M | 3840×1260 (4K) | train / test | 229,989 / 53,494 | [🔗](https://alexandrosstergiou.github.io/datasets/LAVIB) |
+| OpenVid | ICLR'25 | 🔸 M | 1920×1080 (FHD) | train / test | 1M / - | [🔗](https://github.com/NJU-PCALab/OpenVid-1M) |
 
 ---
 
