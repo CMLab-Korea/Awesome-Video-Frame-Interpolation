@@ -554,15 +554,13 @@ Datasets are categorized into **Triplet** and **Multi-frame** types depending on
 
 Early learning-based VFI approaches primarily rely on triplet datasets, where two input frames are used to predict the temporally centered GT frame.
 
-- <a href="https://vision.middlebury.edu/flow/data/" target="_blank"><strong>Middlebury</strong></a>: Originally designed for optical flow, Middlebury contains short video clips with moderate complexity. Its small size limits scalability, but it remains a standard benchmark for consistency evaluation.
-
-- <a href="https://www.crcv.ucf.edu/data/UCF101.php" target="_blank"><strong>UCF101</strong></a>: A human action dataset from which a small subset of triplets is used for VFI. Due to its low resolution and simple motion, it is mainly used for training or sanity checks.
-
-- <a href="http://toflow.csail.mit.edu/" target="_blank"><strong>Vimeo90K</strong></a>: A widely adopted benchmark with diverse scenes and consistent format. It offers clean supervision and balanced motion complexity, making it ideal for comparative analysis.
-
-- <a href="https://myungsub.github.io/CAIN/" target="_blank"><strong>SNU-FILM</strong></a>: Constructed from high-speed footage and categorized by motion difficulty, SNU-FILM enables evaluation across varying levels of motion, occlusion, and blur.
-
-- <a href="https://github.com/lisiyao21/AnimeInterp" target="_blank"><strong>ATD-12K</strong></a>: A large-scale animation dataset with rich stylistic diversity. Its variation in artistic textures and motion patterns supports both general-purpose and domain-specific evaluation.
+| Dataset | Venue | Type | Resolution | Split | #Videos / #Triplets | URL |
+|---------|--------|------|-------------|--------|----------------------|-----|
+| [Middlebury](https://vision.middlebury.edu/flow/data/) | IJCV'11 | 🟦 T | ≤ 640×480 (VGA) | train / test | - / 12 | 🔗 |
+| [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) | CRCV'12 | 🟦 T | 256×256 | train / test | - / 379 | 🔗 |
+| [Vimeo90K](http://toflow.csail.mit.edu/) | IJCV'19 | 🟦 T | 448×256 | train / test | 51,312 / 3,782 | 🔗 |
+| [SNU-FILM](https://myungsub.github.io/CAIN/) | AAAI'20 | 🟦 T | 384–1280 × 368–720 (HD) | train / test | - / 1,240 | 🔗 |
+| [ATD-12K](https://github.com/lisiyao21/AnimeInterp) | CVPR'21 | 🟦 T | 480×270 | train / test | 10,000 / 2,000 | 🔗 |
 
 ---
 
@@ -570,29 +568,25 @@ Early learning-based VFI approaches primarily rely on triplet datasets, where tw
 
 Multi-frame datasets enable dense temporal supervision and are commonly used in both CTFI and ATFI settings. They support flexible frame sampling and evaluation under diverse temporal intervals.
 
-- <a href="https://media.xiph.org/video/derf/" target="_blank"><strong>Xiph</strong></a>: A curated set of 4K video sequences designed for assessing interpolation fidelity in subtle motion settings.
+| Dataset | Venue | Type | Resolution | Split | #Videos / #Triplets | URL |
+|---------|--------|------|-------------|--------|----------------------|-----|
+| [Xiph](https://media.xiph.org/video/derf/) | - | 🟫 M | 3840×2160 (4K) | train / test | - / 8 | 🔗 |
+| [KITTI](http://www.cvlibs.net/datasets/kitti/) | CVPR'12 | 🟫 M | 1242×375 | train / test | 194 / 195 | 🔗 |
+| [DAVIS](https://davischallenge.org/) | CVPR'16 | 🟫 M | 1920×1080 | train / test | 30 / 20 | 🔗 |
+| [HD](https://media.xiph.org/video/derf/) | TPAMI'19 | 🟫 M | 1280×544 | train / test | - / - | 🔗 |
+| [Sintel](http://sintel.is.tue.mpg.de/) | ECCV'12 | 🟫 M | 1024×436 | train / test | 23 / 11 | 🔗 |
+| [Adobe240](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/) | CVPR'17 | 🟫 M | 1280×720 (HD) | train / test | - / 112 | 🔗 |
+| [GOPRO](https://seungjunnah.github.io/Datasets/gopro.html) | CVPR'17 | 🟫 M | 1280×720 (HD) | train / test | 2,103 / 1,111 | 🔗 |
+| [Youtube240](https://jianghz.me/projects/superslomo/) | CVPR'18 | 🟫 M | 1280×720 (HD) | train / test | - / 1,014 | 🔗 |
+| [X4K1000FPS](https://github.com/JihyongOh/XVFI) | ICCV'21 | 🟫 M | 3840×1260 (4K) | train / test | 4,408 / 15 | 🔗 |
+| [WebVid-10M](https://github.com/m-bain/webvid) | ICCV'21 | 🟫 M | various | train / test | 10M / - | 🔗 |
+| [LAVIB](https://alexandrosstergiou.github.io/datasets/LAVIB) | NeurIPS'24 | 🟫 M | 3840×1260 (4K) | train / test | 229,989 / 53,494 | 🔗 |
+| [OpenVid](https://github.com/NJU-PCALab/OpenVid-1M) | ICLR'25 | 🟫 M | 1920×1080 (FHD) | train / test | 1M / - | 🔗 |
 
-- <a href="http://www.cvlibs.net/datasets/kitti/" target="_blank"><strong>KITTI</strong></a>: Captured in autonomous driving scenarios, KITTI poses unique challenges with sparse GT and large ego-motion.
+---
 
-- <a href="http://sintel.is.tue.mpg.de/" target="_blank"><strong>Sintel</strong></a>: A synthetic dataset rendered from the Sintel film, offering photorealistic motion and structured flow annotations.
-
-- <a href="https://davischallenge.org/" target="_blank"><strong>DAVIS</strong></a>: Originally for segmentation, DAVIS features complex object motion, occlusion, and deformation, offering rich dynamics for interpolation.
-
-- <a href="http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/" target="_blank"><strong>Adobe240</strong></a>: Collected at 240fps, this dataset captures real-world motion blur and lighting changes, ideal for fine-grained temporal modeling.
-
-- <a href="https://seungjunnah.github.io/Datasets/gopro.html" target="_blank"><strong>GOPRO</strong></a>: Featuring high-frame-rate recordings with handheld cameras, GOPRO provides realistic non-linear motion and defocus blur.
-
-- <a href="https://jianghz.me/projects/superslomo/" target="_blank"><strong>Youtube240</strong></a>: A large-scale, in-the-wild dataset collected from YouTube, encompassing varied content and challenging motion artifacts.
-
-- <a href="https://media.xiph.org/video/derf/" target="_blank"><strong>HD</strong></a>: A subset of high-resolution content from Xiph, with sharper motion content suited for realistic evaluation.
-
-- <a href="https://github.com/JihyongOh/XVFI" target="_blank"><strong>X4K1000FPS</strong></a>: A premier benchmark for ultra-slow motion and long-range interpolation, thanks to its dense 1000fps and 4K capture settings.
-
-- <a href="https://github.com/m-bain/webvid" target="_blank"><strong>WebVid-10M</strong></a>: A large-scale web video corpus originally built for text-video tasks. Its size and diversity support generative VFI when properly filtered.
-
-- <a href="https://alexandrosstergiou.github.io/datasets/LAVIB" target="_blank"><strong>LAVIB</strong></a>: Designed for large-scale, diverse-domain evaluation with balanced splits and curated subsets for out-of-distribution testing.
-
-- <a href="https://github.com/NJU-PCALab/OpenVid-1M" target="_blank"><strong>OpenVid</strong></a>: A text-video dataset supporting multi-modal VFI and DM-based interpolation research via dense, aligned samples.
+🔹 **T (Triplet dataset)**: Two input frames predict the center frame  
+🔸 **M (Multi-frame dataset)**: Multiple frames allow dense temporal supervision
 
 ---
 
