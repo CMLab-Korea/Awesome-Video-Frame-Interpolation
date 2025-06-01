@@ -16,7 +16,7 @@
 
 
 This repository provides a curated collection of papers, benchmarks, and resources from our survey:  
-**"Advances in Video Frame Interpolation: A Comprehensive Survey"** (arXiv2025).
+**"AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation"** (arXiv2025).
 
 > 📝 **Authors**: Dahyeon Kye, Changhyun Roh, Sukhun Ko, Chanho Eom, Jihyong Oh†
 
@@ -55,7 +55,7 @@ If you find this survey helpful, please consider citing us:
 
 ```bibtex
 @article{Kye2025AceVFI,
-  title={🂡 AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
+  title={AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
   author={Kye, Dahyeon and Roh, Changhyun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
   journal={arXiv preprint arXiv:paper-id},
   year={2025}
