@@ -9,7 +9,7 @@
 
 [![awesome](https://img.shields.io/badge/awesome-yes-critical?style=flat&logo=awesome-lists&labelColor=purple)](https://github.com/sindresorhus/awesome)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CMLab-Korea.Awesome-Video-Frame-Interpolation)](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)
-[![arXiv](https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg)](https://arxiv.org/abs/your-paper-id)
+[![arXiv](https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg)](https://arxiv.org/abs/2506.01061)
 [![Stars](https://img.shields.io/github/stars/CMLab-Korea/Awesome-Video-Frame-Interpolation.svg?style=social&label=Star)](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)
 
 
@@ -55,7 +55,7 @@ If you find this survey helpful, please consider citing us:
 @article{Kye2025AceVFI,
   title={AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
   author={Kye, Dahyeon and Roh, Changhyun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
-  journal={arXiv preprint arXiv:paper-id},
+  journal={arXiv preprint arXiv:2506.01061},
   year={2025}
 }
 ```
@@ -65,7 +65,7 @@ If you find this survey helpful, please consider citing us:
 ## 🔍 Survey Paper
 
 You can find the preprint of our survey here:  
-📄 [arXiv:paper-id](https://arxiv.org/abs/paper-id)
+📄 [arXiv:2506.01061](https://arxiv.org/abs/2506.01061)
 
 
 The overview of our survey paper:
