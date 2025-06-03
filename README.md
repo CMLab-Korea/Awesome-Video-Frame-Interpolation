@@ -291,6 +291,21 @@ We categorize recent VFI papers by methodology:
 </tbody>
 </table>
 
+### 2.2.8 Optimization-based
+<table>
+<thead>
+<tr>
+<th align="left">Title</th>
+<th align="center">Publication</th>
+<th align="center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2306.13933">Boost Video Frame Interpolation via Motion Adaptation</a></td><td align="center">BMVC</td><td align="center">2023</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.pdf">Scene-Adaptive Video Frame Interpolation via Meta-Learning</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
+</tbody>
+</table>
+
 ## 2.3 Diffusion Model-based
 <table>
 <thead>
