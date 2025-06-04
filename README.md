@@ -597,7 +597,7 @@ Early learning-based VFI approaches primarily rely on triplet datasets, where tw
 
 | Dataset    | Venue   | Type | Resolution                | Split        | #Videos / #Triplets | URL                                           |
 | ---------- | ------- | ---- | ------------------------- | ------------ | ------------------- | --------------------------------------------- |
-| Middlebury | IJCV'11 | 🔹 T  | ≤ 640×480                 | test         | 12                  | [🔗](https://vision.middlebury.edu/flow/data/) |
+| Middlebury  | IJCV'11   | 🔹 T | ≤ 640×480 (VGA)         | test         | 12                  | [🔗](https://vision.middlebury.edu/flow/data/) |
 | UCF101     | CRCV'12 | 🔹 T  | 256×256                   | test         | 379                 | [🔗](https://www.crcv.ucf.edu/data/UCF101.php) |
 | Vimeo90K   | IJCV'19 | 🔹 T  | 448×256                   | train / test | 51,312 / 3,782      | [🔗](http://toflow.csail.mit.edu/)             |
 | SNU-FILM   | AAAI'20 | 🔹 T  | ≤ 1280×720 (HD)           | test         | 1,240               | [🔗](https://myungsub.github.io/CAIN/)         |
@@ -611,11 +611,11 @@ Multi-frame datasets enable dense temporal supervision and are commonly used in 
 
 | Dataset    | Venue      | Type | Resolution                   | Split        | #Videos / #Triplets | URL                                                          |
 | ---------- | ---------- | ---- | ---------------------------- | ------------ | ------------------- | ------------------------------------------------------------ |
-| Xiph       | -          | 🔸 M  | 3840×2160 (4K)               | test         | 8                   | [🔗](https://media.xiph.org/video/derf/)                      |
+| Xiph       | -          | 🔸 M  | 2048x1080 (2K), 3840×2160 (4K) | test         | 8                   | [🔗](https://media.xiph.org/video/derf/)                      |
 | KITTI      | CVPR'12    | 🔸 M  | 1240×376                     | train / test | 194 / 195           | [🔗](http://www.cvlibs.net/datasets/kitti/)                   |
 | DAVIS      | CVPR'16    | 🔸 M  | 1920×1080                    | train / test | 30 / 20             | [🔗](https://davischallenge.org/)                             |
 | HD         | TPAMI'19   | 🔸 M  | 960×544, 1280×720, 1920×1080 | test         | 11                  | [🔗](https://media.xiph.org/video/derf/)                      |
-| Sintel     | ECCV'12    | 🔸 M  | 1024×436                     | train        | 23                  | [🔗](http://sintel.is.tue.mpg.de/)                            |
+| Sintel     | ECCV'12    | 🔸 M  | 1024×436                     | train / test | 23 / 12             | [🔗](http://sintel.is.tue.mpg.de/)                            |
 | Adobe240   | CVPR'17    | 🔸 M  | 1280×720                     | train / test | 61 / 10             | [🔗](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/) |
 | GOPRO      | CVPR'17    | 🔸 M  | 1280×720                     | train / test | 22 / 11             | [🔗](https://seungjunnah.github.io/Datasets/gopro.html)       |
 | X4K1000FPS | ICCV'21    | 🔸 M  | 4096×2160                    | train / test | 4,408 / 15          | [🔗](https://github.com/JihyongOh/XVFI)                       |
