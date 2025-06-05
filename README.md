@@ -32,7 +32,7 @@ Video Frame Interpolation (VFI) is a fundamental Low-Level Vision (LLV) task tha
 ## 📚 Contents
 
 - [📣 News](#-news)
-- [🔖 BibTeX](#-bibtex)
+- [🔖 Citation](#-citation)
 - [🔍 Survey Paper](#-survey-paper)
 - [📄 Paper List](#-paper-list)
 - [📊 Datasets & Benchmarks](#-datasets--benchmarks)
@@ -47,11 +47,11 @@ Video Frame Interpolation (VFI) is a fundamental Low-Level Vision (LLV) task tha
 
 ---
 
-## 🔖 BibTeX
+## 🔖 Citation
 
 If you find this survey helpful, please consider citing us:
 
-```bibtex
+```citation
 @article{Kye2025AceVFI,
   title={AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
   author={Kye, Dahyeon and Roh, Changhyun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
