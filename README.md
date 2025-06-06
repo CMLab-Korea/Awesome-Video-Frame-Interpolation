@@ -701,3 +701,8 @@ These metrics evaluate spatiotemporal coherence across video sequences, importan
 - <a href="https://arxiv.org/pdf/2311.17982" target="_blank"><strong>VBench</strong></a>  
   Large-scale, no-reference benchmark for evaluating fidelity, coherence, and realism using semantic video representations.  
   📌 Ideal for reference-free evaluation.
+
+---
+## 💫 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CMLab-Korea/Awesome-Video-Frame-Interpolation&type=Date)](https://www.star-history.com/#CMLab-Korea/Awesome-Video-Frame-Interpolation&Date)
