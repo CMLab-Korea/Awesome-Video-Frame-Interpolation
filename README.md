@@ -61,19 +61,6 @@ If you find this survey helpful, please consider citing us:
 ```
 ---
 
-
-## 🔍 Survey Paper
-
-You can find the preprint of our survey here:  
-📄 [arXiv:2506.01061](https://arxiv.org/abs/2506.01061)
-
-
-The overview of our survey paper:
-![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
-
----
-
-
 ## 🧩 Community Contribution
 
 We welcome contributions from the VFI research community!
@@ -91,6 +78,18 @@ Our maintainers will review your submission and merge it if appropriate.
 We hope this page will grow into a collaborative hub for Video Frame Interpolation (VFI) research.
 
 ---
+
+## 🔍 Survey Paper
+
+You can find the preprint of our survey here:  
+📄 [arXiv:2506.01061](https://arxiv.org/abs/2506.01061)
+
+
+The overview of our survey paper:
+![VFI Categories](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/paper_overview.png)
+
+---
+
 
 ## 📄 Paper List
 
