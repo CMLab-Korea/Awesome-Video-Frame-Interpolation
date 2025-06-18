@@ -341,12 +341,11 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </thead>
 <tbody>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.21205">Sci-Fi: Symmetric Constraint for Frame Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Hai_Hierarchical_Flow_Diffusion_for_Efficient_Frame_Interpolation_CVPR_2025_paper.pdf">Hierarchical Flow Diffusion for Efficient Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2406.17256">Disentangled Motion Modeling for Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2506.03119">Controllable Human-centric Keyframe Interpolation with Generative Prior</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2501.03699">Motion-aware Generative Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.15831">EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2504.00380">Hierarchical Flow Diffusion for Efficient Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Hai_Hierarchical_Flow_Diffusion_for_Efficient_Frame_Interpolation_CVPR_2025_paper.pdf">Hierarchical Flow Diffusion for Efficient Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2408.15239">Generative Inbetweening: Adapting Image-to-video Models for Keyframe Interpolation</a></td><td align="center">ICLR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2412.11755">Generative Inbetweening Through Frame-wise Conditions-driven Video Generation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2410.05651">VIBIDSAMPLER: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler</a></td><td align="center">ICLR</td><td align="center">2025</td></tr>
