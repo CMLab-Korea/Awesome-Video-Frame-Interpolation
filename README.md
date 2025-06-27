@@ -571,6 +571,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Explicit_Depth-Aware_Blurry_Video_Frame_Interpolation_Guided_by_Differential_Curves_CVPR_2025_paper.pdf">Explicit Depth-Aware Blurry Video Frame Interpolation Guided by Differential Curves</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Continuous_Space-Time_Video_Resampling_with__Invertible_Motion_Steganography_CVPR_2025_paper.pdf">Continuous Space-Time Video Resampling with
 Invertible Motion Steganography</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Latency_Correction_for_Event-guided_Deblurring_and_Frame_Interpolation_CVPR_2024_paper.pdf">Latency Correction for Event-guided Deblurring and Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
