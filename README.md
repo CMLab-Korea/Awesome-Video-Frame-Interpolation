@@ -248,7 +248,6 @@ We categorize recent VFI papers by methodology:
 </table>
 
 ### 2.2.5 GAN-based
-
 <table>
 <thead>
 <tr>
@@ -362,7 +361,6 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 
 
 ## 3.4 Loss Functions
-
 <table>
 <thead>
 <tr>
@@ -387,7 +385,6 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 
 
 ## 5.1 Datasets
-
 <table>
 <thead>
 <tr>
@@ -421,7 +418,6 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 
 
 ## 5.3 Evaluation Metrics
-
 <table>
 <thead>
 <tr>
@@ -449,7 +445,6 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 
 
 ## 6. Applications
-
 <table>
 <thead>
 <tr>
@@ -459,6 +454,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2507.01953">FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.20218">Video Motion Graphs</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.01715">KeyFace: Expressive Audio-driven Facial Animation for Long Sequences Via Keyframe Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2410.04221">TANGO: Co-speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation</a></td><td align="center">ICLR</td><td align="center">2025</td></tr>  
