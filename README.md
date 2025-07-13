@@ -339,6 +339,8 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2507.04984">TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame
+Interpolation</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.21205">Sci-Fi: Symmetric Constraint for Frame Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2406.17256">Disentangled Motion Modeling for Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2506.03119">Controllable Human-centric Keyframe Interpolation with Generative Prior</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
@@ -355,6 +357,20 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 <tr><td align="left"><a href="https://arxiv.org/pdf/2403.14611">Explorative Inbetweening of Time and Space</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/abs/2405.05953">Frame Interpolation with Consecutive Brownian Bridge Diffusion</a></td><td align="center">ACM MM</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/944618542d80a63bbec16dfbd2bd689a-Paper-Conference.pdf">MCVD-masked Conditional Video Diffusion for Prediction, Generation, and Interpolation</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
+</tbody>
+</table>
+
+## 2.4 Diffusion Transformer (DiT)-based
+<table>
+<thead>
+<tr>
+<th align="left">Title</th>
+<th align="center">Publication</th>
+<th align="center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2507.05173">Semantic Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 </tbody>
 </table>
 
