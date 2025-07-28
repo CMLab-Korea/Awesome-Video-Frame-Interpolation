@@ -172,6 +172,7 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3721238.3730598">Controllable Tracking-Based Video Frame Interpolation</a></td><td align="center">SIGGRAPH</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/abs/2404.11108">LADDER: An Efficient Framework for Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_OCAI_Improving_Optical_Flow_Estimation_by_Occlusion_and_Consistency_Aware_CVPR_2024_paper.pdf">OCAI: Improving Optical Flow Estimation by Occlusion and Consistency Aware Interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Perception-Oriented_Video_Frame_Interpolation_via_Asymmetric_Blending_CVPR_2024_paper.pdf">Perception-oriented Video Frame Interpolation Via Asymmetric Blending</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
