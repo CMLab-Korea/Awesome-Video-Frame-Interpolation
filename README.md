@@ -340,8 +340,9 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2507.04984">TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame
-Interpolation</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2506.01454">DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2406.00908">ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2507.04984">TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.21205">Sci-Fi: Symmetric Constraint for Frame Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2406.17256">Disentangled Motion Modeling for Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2506.03119">Controllable Human-centric Keyframe Interpolation with Generative Prior</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
