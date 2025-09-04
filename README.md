@@ -473,6 +473,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://www.arxiv.org/pdf/2508.01698">Versatile Transition Generation with Image-to-Video Diffusion</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2507.01953">FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.20218">Video Motion Graphs</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.01715">KeyFace: Expressive Audio-driven Facial Animation for Long Sequences Via Keyframe Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
