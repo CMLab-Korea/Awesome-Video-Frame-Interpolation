@@ -509,6 +509,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2509.08260">EVDI++: Event-based Video Deblurring and Interpolation via Self-Supervised Learning</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.03116">TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.20268">EGVD: Event-guided Video Diffusion Model for Physically Realistic Large-motion Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.22491">Coupled Video Frame Interpolation and Encoding with Hybrid Event Cameras for Low-power High-framerate Video</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
