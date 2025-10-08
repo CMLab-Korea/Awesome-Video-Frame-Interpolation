@@ -330,7 +330,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tbody>
 </table>
 
-## 2.3 Diffusion Model-based
+## 2.3 Diffusion Model (DM)-based
 <table>
 <thead>
 <tr>
@@ -373,6 +373,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">ArbInterp: Arbitrary Generative Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2507.05173">Semantic Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 </tbody>
 </table>
