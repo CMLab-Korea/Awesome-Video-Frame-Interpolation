@@ -340,9 +340,8 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2412.06340">UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2506.01454">DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2406.00908">ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2412.06340">UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2507.04984">TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.21205">Sci-Fi: Symmetric Constraint for Frame Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2406.17256">Disentangled Motion Modeling for Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2025</td></tr>
@@ -353,6 +352,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 <tr><td align="left"><a href="https://arxiv.org/pdf/2408.15239">Generative Inbetweening: Adapting Image-to-video Models for Keyframe Interpolation</a></td><td align="center">ICLR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2412.11755">Generative Inbetweening Through Frame-wise Conditions-driven Video Generation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2410.05651">VIBIDSAMPLER: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler</a></td><td align="center">ICLR</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2406.00908">ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2303.09508">LDMVFI: Video Frame Interpolation with Latent Diffusion Models</a></td><td align="center">AAAI</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Jain_Video_Interpolation_with_Diffusion_Models_CVPR_2024_paper.pdf">Video Interpolation with Diffusion Models</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=u0geEr7X2O">Motion-aware Latent Diffusion Models for Video Frame Interpolation</a></td><td align="center">ACM MM</td><td align="center">2024</td></tr>
@@ -360,21 +360,6 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 <tr><td align="left"><a href="https://arxiv.org/pdf/2403.14611">Explorative Inbetweening of Time and Space</a></td><td align="center">ECCV</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/abs/2405.05953">Frame Interpolation with Consecutive Brownian Bridge Diffusion</a></td><td align="center">ACM MM</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/944618542d80a63bbec16dfbd2bd689a-Paper-Conference.pdf">MCVD-masked Conditional Video Diffusion for Prediction, Generation, and Interpolation</a></td><td align="center">NeurIPS</td><td align="center">2022</td></tr>
-</tbody>
-</table>
-
-## 2.4 Diffusion Transformer (DiT)-based
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="center">Publication</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">ArbInterp: Arbitrary Generative Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2507.05173">Semantic Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 </tbody>
 </table>
 
