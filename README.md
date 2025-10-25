@@ -614,7 +614,20 @@ Invertible Motion Steganography</a></td><td align="center">CVPR</td><td align="c
 </table>
 
 
+## 6.5 Point Clouds
 
+<table>
+<thead>
+<tr>
+<th align="left">Title</th>
+<th align="center">Publication</th>
+<th align="center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_DiffPCI_Large_Motion_Point_Cloud_frame_Interpolation_with_Diffusion_Model_ICCV_2025_paper.pdf">DiffPCI: Large Motion Point Cloud frame Interpolation with Diffusion Model</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
+</tbody>
+</table>
 
 
 ## 📊 Datasets & Benchmarks 
