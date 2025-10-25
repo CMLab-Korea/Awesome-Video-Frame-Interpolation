@@ -340,7 +340,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">Motion Prior Distillation in Time Reversal Sampling for Generative Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=GRElsj9W2t">Motion Prior Distillation in Time Reversal Sampling for Generative Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">Arbitrary Generative Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.08561">MultiCOIN: Multi-Modal COntrollable Video INbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2506.01454">DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
