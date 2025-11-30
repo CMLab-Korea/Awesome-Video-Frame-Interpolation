@@ -376,7 +376,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a>Surface-Aware Feed-Forward Quadratic Gaussian for Frame Interpolation with Large Motion</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf/ed6e8f737787a9fef21dd71c6ab208e09a8f11b8.pdf">Surface-Aware Feed-Forward Quadratic Gaussian for Frame Interpolation with Large Motion</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
 </tbody>
 </table>
 
