@@ -172,6 +172,7 @@ We categorize recent VFI papers by methodology:
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2511.16124">VTinker: Guided Flow Upsampling and Texture Mapping for High-Resolution Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3721238.3730598">Controllable Tracking-Based Video Frame Interpolation</a></td><td align="center">SIGGRAPH</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/abs/2404.11108">LADDER: An Efficient Framework for Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_OCAI_Improving_Optical_Flow_Estimation_by_Occlusion_and_Consistency_Aware_CVPR_2024_paper.pdf">OCAI: Improving Optical Flow Estimation by Occlusion and Consistency Aware Interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
@@ -340,6 +341,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2512.03590">Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=GRElsj9W2t">Motion Prior Distillation in Time Reversal Sampling for Generative Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">Arbitrary Generative Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.08561">MultiCOIN: Multi-Modal COntrollable Video INbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
