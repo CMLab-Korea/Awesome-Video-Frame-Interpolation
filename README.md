@@ -595,6 +595,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2506.03892">Joint Video Enhancement with Deblurring, Super-Resolution, and Frame Interpolation Network</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2509.26325">Continuous Space-Time Video Super-Resolution with 3D Fourier Fields</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Explicit_Depth-Aware_Blurry_Video_Frame_Interpolation_Guided_by_Differential_Curves_CVPR_2025_paper.pdf">Explicit Depth-Aware Blurry Video Frame Interpolation Guided by Differential Curves</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Continuous_Space-Time_Video_Resampling_with__Invertible_Motion_Steganography_CVPR_2025_paper.pdf">Continuous Space-Time Video Resampling with
