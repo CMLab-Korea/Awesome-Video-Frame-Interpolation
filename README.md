@@ -345,7 +345,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">Arbitrary Generative Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.08561">MultiCOIN: Multi-Modal COntrollable Video INbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2506.01454">DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2412.06340">UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2412.06340">UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts</a></td><td align="center">ICCVW</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2507.04984">TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.21205">Sci-Fi: Symmetric Constraint for Frame Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2406.17256">Disentangled Motion Modeling for Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2025</td></tr>
