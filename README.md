@@ -93,7 +93,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to January 7, 2026):  
+We categorize recent VFI papers by methodology (up to January 26, 2026):  
 
 
 ## 2.1 Motion Compensation-based
@@ -340,6 +340,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2601.14959">Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2512.03590">Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=GRElsj9W2t">Motion Prior Distillation in Time Reversal Sampling for Generative Inbetweening</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">Arbitrary Generative Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
