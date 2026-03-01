@@ -1,5 +1,5 @@
 # Awesome-Video-Frame-Interpolation
-### <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/icon2.png?raw=true" width="20" style="vertical-align: middle;"> AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation
+### [IEEE TCSVT'26] <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/icon2.png?raw=true" width="20" style="vertical-align: middle;"> AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation
 
 <p align="center">
   <img src="https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation/blob/main/media/figure.png?raw=true" alt="figure">
@@ -14,7 +14,7 @@
 
 
 This repository provides a curated collection of papers, benchmarks, and resources from our survey:  
-**"AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation"** (arXiv2025).
+**"AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation"** (IEEE TCSVT'26).
 
 > 📝 **Authors**: Dahyeon Kye, Changhyun Roh, Sukhun Ko, Chanho Eom, Jihyong Oh†
 
@@ -42,6 +42,7 @@ Video Frame Interpolation (VFI) is a fundamental Low-Level Vision (LLV) task tha
 
 ## 📣 News
 
+- 📌 2026-02: Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT); the final version will be released soon.
 - 📌 2025-06: Paper released to ArXiv.
 - 🚀 2025-05: Repository initialized.
 
