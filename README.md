@@ -94,7 +94,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to February 3, 2026).
+We categorize recent VFI papers by methodology (up to March 10, 2026).
 
 
 ## 2.1 Motion Compensation-based
