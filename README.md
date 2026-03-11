@@ -53,12 +53,16 @@ Video Frame Interpolation (VFI) is a fundamental Low-Level Vision (LLV) task tha
 If you find this survey helpful, please consider citing us:
 
 ```citation
-@article{Kye2025AceVFI,
-  title={AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation},
+@ARTICLE{11427010,
   author={Kye, Dahyeon and Roh, Changhyun and Ko, Sukhun and Eom, Chanho and Oh, Jihyong},
-  journal={arXiv preprint arXiv:2506.01061},
-  year={2025}
-}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Videos;Interpolation;Kernel;Measurement;Surveys;Pipelines;Feature extraction;Training;Costs;Circuits and systems;Video Frame Interpolation;Generative Inbetweening;Video Generation;Low-Level Vision},
+  doi={10.1109/TCSVT.2026.3672288}}
 ```
 ---
 
