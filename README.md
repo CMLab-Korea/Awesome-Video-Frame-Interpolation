@@ -99,7 +99,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to March 10, 2026).
+We categorize recent VFI papers by methodology (up to March 13, 2026).
 
 
 ## 2.1 Motion Compensation-based
@@ -176,6 +176,8 @@ We categorize recent VFI papers by methodology (up to March 10, 2026).
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11415345">Video Frame Interpolation via Appearance-Based
+Intermediate Flow Estimation</a></td><td align="center">TIP</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2511.16124">VTinker: Guided Flow Upsampling and Texture Mapping for High-Resolution Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3721238.3730598">Controllable Tracking-Based Video Frame Interpolation</a></td><td align="center">SIGGRAPH</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_OCAI_Improving_Optical_Flow_Estimation_by_Occlusion_and_Consistency_Aware_CVPR_2024_paper.pdf">OCAI: Improving Optical Flow Estimation by Occlusion and Consistency Aware Interpolation</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
@@ -345,6 +347,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2603.04899">FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=OiWyf1BNtC">Realtime Video Frame Interpolation using One-Step Diffusion Sampling</a></td><td align="center">ICLR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2601.14959">Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2512.03590">Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
