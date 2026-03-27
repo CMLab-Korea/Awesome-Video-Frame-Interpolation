@@ -19,7 +19,7 @@ This repository provides a curated collection of papers, benchmarks, and resourc
 
 > 📝 **Authors**: Dahyeon Kye, Changhyun Roh, Sukhun Ko, Chanho Eom, Jihyong Oh†
 
-> 🎓 **Institution**: Chung-Ang University, GSAIM  
+> 🎓 **Institution**: CMLab, Chung-Ang University  
 
 ---
 
