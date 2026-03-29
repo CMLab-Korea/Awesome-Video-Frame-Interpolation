@@ -487,6 +487,8 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2603.14375">The Pulse of Motion: Measuring Physical Frame Rate
+from Visual Dynamics</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=isNjWnVsUR">Anchor Frame Bridging for Coherent First-Last Frame Video Generation</a></td><td align="center">ICLR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2512.07155">CHIMERA: Adaptive Cache Injection and Semantic Anchor Prompting for Zero-shot Image Morphing with Morphing-oriented Metrics</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://www.arxiv.org/pdf/2508.01698">Versatile Transition Generation with Image-to-Video Diffusion</a></td><td align="center">ICCV</td><td align="center">2025</td></tr>
