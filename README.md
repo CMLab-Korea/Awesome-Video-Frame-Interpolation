@@ -99,7 +99,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to March 13, 2026).
+We categorize recent VFI papers by methodology (up to March 30, 2026).
 
 
 ## 2.1 Motion Compensation-based
@@ -526,6 +526,7 @@ from Visual Dynamics</a></td><td align="center">arXiv</td><td align="center">202
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2603.23487">TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://github.com/yuhan0802/EPA">EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2509.08260">EVDI++: Event-based Video Deblurring and Interpolation via Self-Supervised Learning</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.03116">TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
