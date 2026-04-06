@@ -347,6 +347,8 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2604.01700">Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency
+for Reversible Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2603.04899">FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=OiWyf1BNtC">Realtime Video Frame Interpolation using One-Step Diffusion Sampling</a></td><td align="center">ICLR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2601.14959">Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
