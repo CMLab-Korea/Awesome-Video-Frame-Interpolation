@@ -176,6 +176,7 @@ We categorize recent VFI papers by methodology (up to June. 17, 2026).
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Shu_Motion-Guided_Multi-Scale_Fusion_for_High-FPS_Video_Frame_Interpolation_CVPRW_2026_paper.pdf">Motion-Guided Multi-Scale Fusion for High-FPS Video Frame Interpolation</a></td><td align="center">CVPRW</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11415345">Video Frame Interpolation via Appearance-Based
 Intermediate Flow Estimation</a></td><td align="center">TIP</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2511.16124">VTinker: Guided Flow Upsampling and Texture Mapping for High-Resolution Video Frame Interpolation</a></td><td align="center">AAAI</td><td align="center">2026</td></tr>
@@ -617,6 +618,7 @@ Event-Based Video Frame Interpolation</a></td><td align="center">CVPR</td><td al
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Park_C2-STVSR_Correlation-Guided_Continuous_Spatial-Temporal_Video_Super-Resolution_CVPRW_2026_paper.pdf">C2-STVSR: Correlation-guided Continuous Spatial-Temporal Video Super-Resolution</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2506.03892">Joint Video Enhancement with Deblurring, Super-Resolution, and Frame Interpolation Network</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2509.26325">Continuous Space-Time Video Super-Resolution with 3D Fourier Fields</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Explicit_Depth-Aware_Blurry_Video_Frame_Interpolation_Guided_by_Differential_Curves_CVPR_2025_paper.pdf">Explicit Depth-Aware Blurry Video Frame Interpolation Guided by Differential Curves</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
