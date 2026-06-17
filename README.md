@@ -42,7 +42,7 @@ Video Frame Interpolation (VFI) is a fundamental Low-Level Vision (LLV) task tha
 ---
 
 ## 📣 News
-- 🆕 2026-06: Updated the repository to include recent VFI papers from AAAI'26, ICLR'26, ICML'26, and CVPR'26.
+- 🆕 2026-06: Updated the paper list with AAAI'26, ICLR'26, ICML'26, and CVPR'26 papers.
 - 📌 2026-02: Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT); the final version will be released soon.
 - 📌 2025-06: Paper released to ArXiv.
 - 🚀 2025-05: Repository initialized.
