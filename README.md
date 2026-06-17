@@ -289,6 +289,7 @@ Intermediate Flow Estimation</a></td><td align="center">TIP</td><td align="cente
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_TimeBridge_Self-Supervised_Video_Representation_Learning_via_Start-End_Joint_Embedding_and_CVPR_2026_paper.pdf">TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2503.15831">EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Sparse_Global_Matching_for_Video_Frame_Interpolation_with_Large_Motion_CVPR_2024_paper.pdf">Sparse Global Matching for Video Frame Interpolation with Large Motion</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2405.05953">Frame Interpolation with Consecutive Brownian Bridge Diffusion</a></td><td align="center">ACM CM</td><td align="center">2024</td></tr>
@@ -347,6 +348,9 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_Bi-directional_Autoregressive_Diffusion_for_Large_Complex_Motion_Interpolation_CVPR_2026_paper.pdf">Bi-directional Autoregressive Diffusion for Large Complex Motion Interpolation</td><td align="center">CVPR</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2603.17651">Anchoring and Rescaling Attention for Semantically Coherent Inbetweening</td><td align="center">CVPR</td><td align="center">2026</td></tr>
+<tr><td align="left">SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation</td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2604.01700">Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency
 for Reversible Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2603.04899">FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
@@ -528,6 +532,8 @@ from Visual Dynamics</a></td><td align="center">arXiv</td><td align="center">202
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.pdf">One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for
+Event-Based Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2603.23487">TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://github.com/yuhan0802/EPA">EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2509.08260">EVDI++: Event-based Video Deblurring and Interpolation via Self-Supervised Learning</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
