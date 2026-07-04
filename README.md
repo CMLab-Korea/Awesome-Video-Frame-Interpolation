@@ -42,7 +42,7 @@ Video Frame Interpolation (VFI) is a fundamental Low-Level Vision (LLV) task tha
 ---
 
 ## 📣 News
-- 🆕 2026-06: Updated the paper list with AAAI'26, ICLR'26, ICML'26, and CVPR'26 papers.
+- 🆕 2026-06: Updated AAAI’26, ICLR’26, ICML’26, and CVPR’26 papers.
 - 📌 2026-02: Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT); the final version will be released soon.
 - 📌 2025-06: Paper released to ArXiv.
 - 🚀 2025-05: Repository initialized.
@@ -99,7 +99,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to June. 17, 2026).
+We categorize recent VFI papers by methodology (up to Jul. 4, 2026).
 
 
 ## 2.1 Motion Compensation-based
@@ -176,6 +176,8 @@ We categorize recent VFI papers by methodology (up to June. 17, 2026).
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2606.27718">MASS: Motion-Aligned Selective Scan for Refinement in Flow-Based Video Frame
+Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Shu_Motion-Guided_Multi-Scale_Fusion_for_High-FPS_Video_Frame_Interpolation_CVPRW_2026_paper.pdf">Motion-Guided Multi-Scale Fusion for High-FPS Video Frame Interpolation</a></td><td align="center">CVPRW</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11415345">Video Frame Interpolation via Appearance-Based
 Intermediate Flow Estimation</a></td><td align="center">TIP</td><td align="center">2026</td></tr>
