@@ -99,7 +99,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to Jul. 4, 2026).
+We categorize recent VFI papers by methodology (up to Jul. 25, 2026).
 
 
 ## 2.1 Motion Compensation-based
@@ -353,7 +353,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 <tbody>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_Bi-directional_Autoregressive_Diffusion_for_Large_Complex_Motion_Interpolation_CVPR_2026_paper.pdf">Bi-directional Autoregressive Diffusion for Large Complex Motion Interpolation</td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2603.17651">Anchoring and Rescaling Attention for Semantically Coherent Inbetweening</td><td align="center">CVPR</td><td align="center">2026</td></tr>
-<tr><td align="left">SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation</td><td align="center">arXiv</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2607.15585">SPEED: One-Step Pixel Diffusion for High-quality Video Frame Interpolation</td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2604.01700">Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency
 for Reversible Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2603.04899">FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
