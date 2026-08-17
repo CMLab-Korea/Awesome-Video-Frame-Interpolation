@@ -99,7 +99,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to Jul. 25, 2026).
+We categorize recent VFI papers by methodology (up to Aug. 17, 2026).
 
 
 ## 2.1 Motion Compensation-based
@@ -176,6 +176,7 @@ We categorize recent VFI papers by methodology (up to Jul. 25, 2026).
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2608.13460">SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2606.27718">MASS: Motion-Aligned Selective Scan for Refinement in Flow-Based Video Frame
 Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Shu_Motion-Guided_Multi-Scale_Fusion_for_High-FPS_Video_Frame_Interpolation_CVPRW_2026_paper.pdf">Motion-Guided Multi-Scale Fusion for High-FPS Video Frame Interpolation</a></td><td align="center">CVPRW</td><td align="center">2026</td></tr>
