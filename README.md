@@ -780,4 +780,12 @@ These metrics evaluate spatiotemporal coherence across video sequences, importan
 ---
 ## 💫 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CMLab-Korea/Awesome-Video-Frame-Interpolation&type=Date)](https://www.star-history.com/#CMLab-Korea/Awesome-Video-Frame-Interpolation&Date)
+## Star History
+
+<a href="https://www.star-history.com/?repos=CMLab-Korea%2FAwesome-Video-Frame-Interpolation&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=CMLab-Korea/Awesome-Video-Frame-Interpolation&type=date&theme=dark&legend=top-left&sealed_token=U9xn1cRS2kHc-pMivc2dkNCNlGJ7ERSNpkCBXIv8mw6eYCzANPr83BuQ3zI3VjRJBZf2kHpUHFYDk_MtornnVPlsZoyGl_ZK4hYyUm5eV2OYWXkBb2UIyw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=CMLab-Korea/Awesome-Video-Frame-Interpolation&type=date&legend=top-left&sealed_token=U9xn1cRS2kHc-pMivc2dkNCNlGJ7ERSNpkCBXIv8mw6eYCzANPr83BuQ3zI3VjRJBZf2kHpUHFYDk_MtornnVPlsZoyGl_ZK4hYyUm5eV2OYWXkBb2UIyw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=CMLab-Korea/Awesome-Video-Frame-Interpolation&type=date&legend=top-left&sealed_token=U9xn1cRS2kHc-pMivc2dkNCNlGJ7ERSNpkCBXIv8mw6eYCzANPr83BuQ3zI3VjRJBZf2kHpUHFYDk_MtornnVPlsZoyGl_ZK4hYyUm5eV2OYWXkBb2UIyw" />
+ </picture>
+</a>
