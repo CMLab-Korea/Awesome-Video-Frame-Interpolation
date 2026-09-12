@@ -99,7 +99,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to Aug. 17, 2026).
+We categorize recent VFI papers by methodology (up to Sep. 12, 2026).
 
 
 ## 2.1 Motion Compensation-based
@@ -176,9 +176,9 @@ We categorize recent VFI papers by methodology (up to Aug. 17, 2026).
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9736.pdf">Aligning Anything: Hierarchical Motion Estimation for Video Frame Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2606.27718">MASS: Motion-Aligned Selective Scan for Refinement in Flow-Based Video Frame Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2608.13460">SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2606.27718">MASS: Motion-Aligned Selective Scan for Refinement in Flow-Based Video Frame
-Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Shu_Motion-Guided_Multi-Scale_Fusion_for_High-FPS_Video_Frame_Interpolation_CVPRW_2026_paper.pdf">Motion-Guided Multi-Scale Fusion for High-FPS Video Frame Interpolation</a></td><td align="center">CVPRW</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11415345">Video Frame Interpolation via Appearance-Based
 Intermediate Flow Estimation</a></td><td align="center">TIP</td><td align="center">2026</td></tr>
@@ -321,6 +321,7 @@ Intermediate Flow Estimation</a></td><td align="center">TIP</td><td align="cente
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5476.pdf">Following Motion for Sequential Modeling in Video Frame Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Jeong_LC-Mamba_Local_and_Continuous_Mamba_with_Shifted_Windows_for_Frame_CVPR_2025_paper.pdf">LC-Mamba: Local and Continuous Mamba with Shifted Windows
 for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/c1e9db5e1b04322963af91ac0c943568-Paper-Conference.pdf">VFIMamba: Video Frame Interpolation with State Space Models</a></td><td align="center">NeurIPS</td><td align="center">2024</td></tr>
@@ -396,6 +397,7 @@ for Reversible Interpolation</a></td><td align="center">arXiv</td><td align="cen
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2605.11489">3DGS³: Joint Super Sampling and Frame Interpolation for Real-Time Large-Scale 3DGS Rendering</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf/ed6e8f737787a9fef21dd71c6ab208e09a8f11b8.pdf">Surface-Aware Feed-Forward Quadratic Gaussian for Frame Interpolation with Large Motion</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
 </tbody>
 </table>
@@ -536,9 +538,8 @@ from Visual Dynamics</a></td><td align="center">arXiv</td><td align="center">202
 </tr>
 </thead>
 <tbody>
-<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.pdf">One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for
-Event-Based Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
-<tr><td align="left"><a href="https://arxiv.org/pdf/2603.23487">TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.pdf">One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/27.pdf">TETO: Tracking Events with Teacher Observation for Real-World Motion Understanding</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://github.com/yuhan0802/EPA">EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2509.08260">EVDI++: Event-based Video Deblurring and Interpolation via Self-Supervised Learning</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2505.03116">TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion</a></td><td align="center">CVPR</td><td align="center">2025</td></tr>
