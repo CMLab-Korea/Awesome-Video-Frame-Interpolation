@@ -99,7 +99,7 @@ The overview of our survey paper:
 
 ## 📄 Paper List
 
-We categorize recent VFI papers by methodology (up to Sep. 12, 2026).
+We categorize recent VFI papers by methodology (up to Oct. 15, 2026).
 
 
 ## 2.1 Motion Compensation-based
@@ -176,6 +176,9 @@ We categorize recent VFI papers by methodology (up to Sep. 12, 2026).
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/11619838">Explicit Progressive Optimization for Video frame Interpolation with Optical Flow Guidance</a></td><td align="center">ICIGP</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/11408249">Velocity Disambiguation for Video Frame Interpolation</a></td><td align="center">TPAMI</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/11709475">Accurate Motion Estimation With Bézier Control Point for Efficient Frame Interpolation</a></td><td align="center">TIP</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9736.pdf">Aligning Anything: Hierarchical Motion Estimation for Video Frame Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2606.27718">MASS: Motion-Aligned Selective Scan for Refinement in Flow-Based Video Frame Interpolation</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2608.13460">SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
@@ -353,6 +356,9 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/11724590">MotionDreamer: Generating Continuous Intermediate Motions for Complex Motion Interpolation</a></td><td align="center">TIP</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/pdf/2610.13187">Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://openreview.net/pdf?id=zoExtsg436">Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening</a></td><td align="center">ICML</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_Bi-directional_Autoregressive_Diffusion_for_Large_Complex_Motion_Interpolation_CVPR_2026_paper.pdf">Bi-directional Autoregressive Diffusion for Large Complex Motion Interpolation</td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2603.17651">Anchoring and Rescaling Attention for Semantically Coherent Inbetweening</td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2607.15585">SPEED: One-Step Pixel Diffusion for High-quality Video Frame Interpolation</td><td align="center">arXiv</td><td align="center">2026</td></tr>
@@ -361,6 +367,7 @@ for Reversible Interpolation</a></td><td align="center">arXiv</td><td align="cen
 <tr><td align="left"><a href="https://arxiv.org/pdf/2603.04899">FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=OiWyf1BNtC">Realtime Video Frame Interpolation using One-Step Diffusion Sampling</a></td><td align="center">ICLR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2601.14959">Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
+<tr><td align="left"><a href="https://arxiv.org/abs/2511.06019">MiVID: Multi-Strategic Self-Supervision for Video Frame Interpolation using Diffusion Model</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2512.03590">Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation</a></td><td align="center">arXiv</td><td align="center">2025</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=GRElsj9W2t">Motion Prior Distillation in Time Reversal Sampling for Generative Inbetweening</a></td><td align="center">ICLR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2510.00578">Arbitrary Generative Video Interpolation</a></td><td align="center">ICLR</td><td align="center">2026</td></tr>
@@ -397,6 +404,7 @@ for Reversible Interpolation</a></td><td align="center">arXiv</td><td align="cen
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/abs/2603.13783">RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2605.11489">3DGS³: Joint Super Sampling and Frame Interpolation for Real-Time Large-Scale 3DGS Rendering</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf/ed6e8f737787a9fef21dd71c6ab208e09a8f11b8.pdf">Surface-Aware Feed-Forward Quadratic Gaussian for Frame Interpolation with Large Motion</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
 </tbody>
@@ -538,6 +546,7 @@ from Visual Dynamics</a></td><td align="center">arXiv</td><td align="center">202
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://arxiv.org/abs/2606.24282">UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.pdf">One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/27.pdf">TETO: Tracking Events with Teacher Observation for Real-World Motion Understanding</a></td><td align="center">ECCV</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://github.com/yuhan0802/EPA">EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</a></td><td align="center">NeurIPS</td><td align="center">2025</td></tr>
@@ -603,6 +612,7 @@ from Visual Dynamics</a></td><td align="center">arXiv</td><td align="center">202
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://ieeexplore.ieee.org/document/11460807">FlowDiff: Integrating Optical Flow Priors with Diffusion for High-Fidelity Medical Image Interpolation</a></td><td align="center">ICASSP</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Data-Efficient_Unsupervised_Interpolation_Without_Any_Intermediate_Frame_for_4D_Medical_CVPR_2024_paper.pdf">Data-efficient Unsupervised Interpolation Without Any Intermediate Frame for 4d Medical Images</a></td><td align="center">CVPR</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2405.15385">CPT-Interp: Continuous Spatial and Temporal Motion Modeling for 4d Medical Image Interpolation</a></td><td align="center">arXiv</td><td align="center">2024</td></tr>
 <tr><td align="left"><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_A_Spatiotemporal_Volumetric_Interpolation_Network_for_4D_Dynamic_Medical_Image_CVPR_2020_paper.pdf">A Spatiotemporal Volumetric Interpolation Network for 4d Dynamic Medical Image</a></td><td align="center">CVPR</td><td align="center">2020</td></tr>
