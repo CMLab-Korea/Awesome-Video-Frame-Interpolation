@@ -356,6 +356,7 @@ for Frame Interpolation</a></td><td align="center">CVPR</td><td align="center">2
 </tr>
 </thead>
 <tbody>
+<tr><td align="left"><a href="https://link.springer.com/article/10.1007/s11432-025-4920-3">Motion-aware generative frame interpolation</a></td><td align="center">Science China Information Sciences</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://ieeexplore.ieee.org/document/11724590">MotionDreamer: Generating Continuous Intermediate Motions for Complex Motion Interpolation</a></td><td align="center">TIP</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://arxiv.org/pdf/2610.13187">Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening</a></td><td align="center">arXiv</td><td align="center">2026</td></tr>
 <tr><td align="left"><a href="https://openreview.net/pdf?id=zoExtsg436">Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening</a></td><td align="center">ICML</td><td align="center">2026</td></tr>
